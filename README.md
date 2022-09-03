@@ -1,9 +1,13 @@
-![Alt text](https://drive.google.com/file/d/19_p9v1rMtkIE7K0TTj11pQOfbfYaPuV0/view?usp=drivesdk)
+![Alt text](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/5498e66b3958a13a10ef3d0617ad22bddf86a79a/png_20220903_153457_0000.png)
 
 - 👋 Hi, I’m @Boddepally Venkatesh06
+
 - 👀 I’m interested in Coding is my passion ...
+
 - 🌱 I’m currently learning B.Tech (CSE) ...
+
 - 💞️ I’m looking to collaborate on HTML & Graphic Design ...
+
 - 📫 How to reach me @www.reallygreatsite.com
      @venkykumar06@gmail.com ...
 
