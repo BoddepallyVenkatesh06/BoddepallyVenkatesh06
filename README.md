@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on HTML & Graphic Design ...
 
-- 📫 How to reach me @www.reallygreatsite.com
+- 📫 How to reach me @www.venkykumar.com
      @venkykumar06@gmail.com ...
 
 <!---
