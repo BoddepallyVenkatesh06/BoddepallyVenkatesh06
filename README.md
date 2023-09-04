@@ -18,7 +18,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 <p><a href="https://www.buymeacoffee.com/venkykumar0006"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a><a href="https://ko-fi.com/venkykumar0006"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
 <p></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BoddepallyVenkatesh06)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
@@ -28,7 +28,27 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  
-![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)
+<p align="center">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="GitHub View">
+        <img src="https://komarev.com/ghpvc/?username=natterstefan&color=FAC151" /></a>   
+ <ahref="https://github.com/badges/shields/graphs/contributors" alt="Contributors"><imgsrc="https://img.shields.io/github/contributors/badges/shields" /></a>
+    <a href="#backers" alt="Backers on Open Collective">
+        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+    <a href="#sponsors" alt="Sponsors on Open Collective">
+        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    <a href="https://circleci.com/gh/badges/shields/tree/master">
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
+    <a href="https://circleci.com/gh/badges/daily-tests">
+        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
+            alt="service-test status"></a>
+    <a href="https://coveralls.io/github/badges/shields">
+        <img src="https://img.shields.io/coveralls/github/badges/shields"
+            alt="coverage"></a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a></p>
 
 ![GitHub metrics](https://raw.githubusercontent.com/PolymerLabs/bower-metrics-dashboard/master/snap.png?token=238208__eyJzY29wZSI6IlJhd0Jsb2I6UG9seW1lckxhYnMvYm93ZXItbWV0cmljcy1kYXNoYm9hcmQvbWFzdGVyL3NuYXAucG5nIiwiZXhwaXJlcyI6MTM5ODIxMTk4M30%3D--a1c98f62d3ce07e168d35d145d52e8a1ee2babbb)  
 
