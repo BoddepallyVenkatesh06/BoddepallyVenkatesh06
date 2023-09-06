@@ -52,7 +52,40 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 ![GitHub metrics](https://raw.githubusercontent.com/PolymerLabs/bower-metrics-dashboard/master/snap.png?token=238208__eyJzY29wZSI6IlJhd0Jsb2I6UG9seW1lckxhYnMvYm93ZXItbWV0cmljcy1kYXNoYm9hcmQvbWFzdGVyL3NuYXAucG5nIiwiZXhwaXJlcyI6MTM5ODIxMTk4M30%3D--a1c98f62d3ce07e168d35d145d52e8a1ee2babbb)  
 
+<h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 03 August 2021 - To: 05 September 2023
+
+HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
+JavScript        5 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
+React,js         2 hrs 10 mins   ██████████████▒░░░░░░░░░░   62.78 %
+Node.js          3 hrs 24 mins   ███████████▓░░░░░░░░░░░░░   45.20 %
+Other            50 mins         ▒▒▒▒░░░░░░░░░░░░░░░░░░░░░   10.80 %
+```
+
+<!--END_SECTION:waka-->
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BoddepallyVenkatesh06)  
+
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To See My All Badges Click Here [here](https://www.credly.com/users/boddepally-venkatesh/badges)
+
+<!--START_SECTION:badges-->
+[![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
+[![Interact with Dashboards and Reports](https://images.credly.com/size/150x200/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png)](https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9 "Interact with Dashboards and Reports")
+[![LFC108: Cybersecurity Fundamentals](https://images.credly.com/size/150x200/images/61dcfaa2-99a0-4e36-909e-04b56dcbcfc2/image.png)]( https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863 "Cybersecurity Fundamentals")
+[![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/150x200/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Fundamentals of Quantum Computing")
+[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/150x200/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Enterprise Design Thinking Co-Creator")
+[![IBM Cloud Essentials](https://images.credly.com/size/150x200/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "IBM Cloud Essentials")
+
+<!--END_SECTION:badges-->
 
 
 <!---
