@@ -75,8 +75,6 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
-To See My All Badges Click Here [here](https://www.credly.com/users/boddepally-venkatesh/badges)
-
 <!--START_SECTION:badges-->
 [![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
 [![Interact with Dashboards and Reports](https://images.credly.com/size/150x200/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png)](https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9 "Interact with Dashboards and Reports")
