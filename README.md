@@ -87,6 +87,10 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 [![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/150x200/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](https://www.credly.com/org/ibm/badge/cybersecurity-compliance-framework-system-administration "Cybersecurity Compliance Framework & System Administration")
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/150x200/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/org/ibm/badge/introduction-to-cybersecurity-tools-cyber-attacks "Introduction to Cybersecurity Tools & Cyber Attacks")
 
+![Holopin Badges](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/holopin_badges_1.jpeg)
+
+![Holopin Badges](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/holopin_badges.jpeg)
+
 <!--END_SECTION:badges-->
 
 
