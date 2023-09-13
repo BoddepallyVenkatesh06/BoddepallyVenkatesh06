@@ -26,6 +26,8 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 ![GitHub stats](https://github.com/BoddepallyVenkatesh06/Venkykumar0006.github.io/blob/main/stats.png?raw=true)  
 
+![LeetCode Profile](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/LeetCode_Profile.png)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  
 <p align="center">
@@ -111,8 +113,6 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 <a href="https://leetcode.com/static/images/badges/dcc-2023-7.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" align="left" height="150" width="150" ></a>
 <a href="https://leetcode.com/static/images/badges/dcc-2023-8.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" align="left" height="150" width="150" ></a>
 <!--END_SECTION:badges-->
-
-![LeetCode Profile](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/LeetCode_Profile.png)
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
