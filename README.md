@@ -91,6 +91,16 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 
 ![Holopin Badges](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/holopin_badges.jpeg)
 
+
+<h2> My Last GitHub badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+
+![Badges](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
+![Badges](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)
+![Badges](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png)
+![Badges](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+![Badges](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png)
+![Badges](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 <!--END_SECTION:badges-->
 
 
