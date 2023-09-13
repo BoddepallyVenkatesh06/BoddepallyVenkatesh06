@@ -100,7 +100,9 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 <a href="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" align="left" height="150" width="150" ></a>
 <a href="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png" align="left" height="150" width="150" ></a>
 <a href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" align="left" height="150" width="150" ></a>
-
+<a href="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png" align="left" height="150" width="150" ></a>
+<a href="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" align="left" height="150" width="150" ></a>
+<a href="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" align="left" height="150" width="150" ></a>
 <!--END_SECTION:badges-->
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
