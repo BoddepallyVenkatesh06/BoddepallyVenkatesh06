@@ -94,15 +94,12 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 
 <h2> My Last GitHub badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
-
-![Badges](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
-![Badges](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)
-![Badges](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png)
-![Badges](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-![Badges](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png)
-![Badges](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-<!--END_SECTION:badges-->
-
+<a href="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" align="left" height="200" width="200" ></a>
+<a href="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" align="left" height="200" width="200" ></a>
+<a href="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" align="left" height="200" width="200" ></a>
+<a href="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" align="left" height="200" width="200" ></a>
+<a href="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png" align="left" height="200" width="200" ></a>
+<a href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" align="left" height="200" width="200" ></a>
 
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
