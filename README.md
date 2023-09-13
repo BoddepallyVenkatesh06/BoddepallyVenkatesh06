@@ -57,7 +57,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2021 - To: 05 September 2023
+From: 03 August 2021 - To: 11 September 2023
 
 HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        5 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
@@ -73,7 +73,7 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BoddepallyVenkatesh06)  
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<h2> My Last Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
 [![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
@@ -92,7 +92,7 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 ![Holopin Badges](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/holopin_badges.jpeg)
 
 
-<h2> My Last GitHub badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<h2> My Last GitHub Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <a href="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" align="left" height="150" width="150" ></a>
 <a href="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" align="left" height="150" width="150" ></a>
@@ -102,8 +102,19 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 <a href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" align="left" height="150" width="150" ></a>
 <a href="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png" align="left" height="150" width="150" ></a>
 <a href="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" align="left" height="150" width="150" ></a>
-
 <!--END_SECTION:badges-->
+
+
+<h2> My LeetCode Badges <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
+
+<a href="https://leetcode.com/static/images/badges/dcc-2023-1.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-2.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-3.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-4.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-5.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-6.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-7.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-8.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" align="left" height="150" width="150" ></a>
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
