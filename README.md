@@ -131,16 +131,23 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <h1 align="left">Support:</h1>
-<p><a href="https://www.buymeacoffee.com/venkykumar0006"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a><a href="https://ko-fi.com/venkykumar0006"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/venkykumar0006">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://ko-fi.com/venkykumar0006">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</p>
+<br><br>
 <p></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoddepallyVenkatesh06)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github2-venky.netlify.app/github_stats.png" alt="Venky Kumar GitHub stats" width="400" height="200">
+<img src="https://github2-venky.netlify.app/github_stats.png" alt="Venky Kumar GitHub stats" width="460" height="99%">
 
 ![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
 
