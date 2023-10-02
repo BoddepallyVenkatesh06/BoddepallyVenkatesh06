@@ -1,6 +1,6 @@
 ### Hi there 👋, Hy name is Venky Kumar
 #### I am GitHub Contributes creator
-![I am GitHub Contributes creator](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/5498e66b3958a13a10ef3d0617ad22bddf86a79a/png_20220903_153457_0000.png)
+![I am GitHub Contributes creator](https://github-venky.netlify.app/my_image.png)
 
 My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
 
@@ -11,9 +11,125 @@ My Creative and responsible professional with excellent troubleshooting skills l
 - 📫 How to reach me: venkykumar06@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=512" alt="amplify" width="40" height="40"/>
+  </a>
 
-[<img src='https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=512' alt='github' height='40'>](https://github.com/BoddepallyVenkatesh06)  [<img src='https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=avif&w=512' alt='linkedin' height='40'>](https://www.linkedin.com/in/venkykumar0006/)  [<img src='https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=avif&w=512' alt='facebook' height='40'>](https://www.facebook.com/venkykumar.5602)  [<img src='https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=512' height='40'>](https://www.instagram.com/venkykumar0607/)  [<img src='https://cdn.iconscout.com/icon/premium/png-512-thumb/twitter-2752046-2284863.png?f=avif&w=512' height='40'>](https://twitter.com/venkykumar0006)  [<img src='https://cdn.iconscout.com/icon/free/png-512/free-codepen-9132422-7417313.png?f=avif&w=512' height='40'>](https://codepen.io/venkykumar0006)  [<img src='https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512' height='40'>](https://stackoverflow.com/users/22493780/venkykumar0006)  [<img src='https://cdn.iconscout.com/icon/premium/png-512-thumb/website-3565633-2997433.png?f=avif&w=512' alt='website' height='40'>](https://venkykumarportfolio.netlify.app/)  [<img src='https://avatars.githubusercontent.com/u/38809367?s=200&v=4' alt='website' height='40'>](https://devfolio.co/@venkykumar0006)  [<img src='https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lgnxtqohdbatl4eoek3f' alt='website' height='40'>](https://devfolio.co/@venkykumar0006)  
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=avif&w=512" alt="css3" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-html5-40-1175193.png?f=avif&w=512" alt="html5" width="40" height="40"/>
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-3-1175109.png?f=avif&w=512" alt="reactjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=avif&w=512" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png?f=avif&w=512" alt="express" width="40" height="40"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="nestjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-1-226034.png?f=avif&w=512" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-photoshop-8-226474.png?f=avif&w=512" alt="photoshop" width="40" height="40"/>
+  </a>
+
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-rails-2-1175112.png?f=avif&w=512" alt="rails" width="40" height="40"/>
+  </a>
+
+   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-ruby-46-1175101.png?f=avif&w=512" alt="ruby" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">My Portfolio:</h3>
+<a href="https://github.com/BoddepallyVenkatesh06">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=512" alt="GitHub" height="40">
+</a>
+
+<a href="https://www.linkedin.com/in/venkykumar0006/">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=avif&w=512" alt="LinkedIn" height="40">
+</a>
+
+<a href="https://www.facebook.com/venkykumar.5602">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=avif&w=512" alt="Facebook" height="40">
+</a>
+
+<a href="https://www.instagram.com/venkykumar0607/">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=512" alt="Instagram" height="40">
+</a>
+
+<a href="https://twitter.com/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/twitter-2752046-2284863.png?f=avif&w=512" alt="Twitter" height="40">
+</a>
+
+<a href="https://codepen.io/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-codepen-9132422-7417313.png?f=avif&w=512" alt="CodePen" height="40">
+</a>
+
+<a href="https://stackoverflow.com/users/22493780/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512" alt="Stack Overflow" height="40">
+</a>
+
+<a href="https://venkykumarportfolio.netlify.app/">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/website-3565633-2997433.png?f=avif&w=512" alt="Website" height="40">
+</a>
+
+<a href="https://devfolio.co/@venkykumar0006">
+  <img src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="Devfolio" height="40">
+</a>
+
+<a href="https://devfolio.co/@venkykumar0006">
+  <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lgnxtqohdbatl4eoek3f" alt="Crunchbase" height="40">
+</a>
+
 <h1 align="left">Support:</h1>
 <p><a href="https://www.buymeacoffee.com/venkykumar0006"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a><a href="https://ko-fi.com/venkykumar0006"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
 <p></p>
@@ -24,9 +140,9 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoddepallyVenkatesh06)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github.com/BoddepallyVenkatesh06/Venkykumar0006.github.io/blob/main/stats.png?raw=true)  
+<img src="https://github2-venky.netlify.app/github_stats.png" alt="Venky Kumar GitHub stats" width="400" height="200">
 
-![LeetCode Profile](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/LeetCode_Profile.png)
+![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  
@@ -89,9 +205,9 @@ Other            50 mins         ▒▒▒▒░░░░░░░░░░░�
 [![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/150x200/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](https://www.credly.com/org/ibm/badge/cybersecurity-compliance-framework-system-administration "Cybersecurity Compliance Framework & System Administration")
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/150x200/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/org/ibm/badge/introduction-to-cybersecurity-tools-cyber-attacks "Introduction to Cybersecurity Tools & Cyber Attacks")
 
-![Holopin Badges](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/holopin_badges_1.jpeg)
+![Holopin Badges](https://github-venky.netlify.app/holopin_badges.jpeg)
 
-![Holopin Badges](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/holopin_badges.jpeg)
+![Holopin Badges](https://github-venky.netlify.app/holopin_badges_1.jpeg)
 
 
 <h2> My Last GitHub / LeetCode Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
