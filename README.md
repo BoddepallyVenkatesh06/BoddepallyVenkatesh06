@@ -181,7 +181,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2021 - To: 11 September 2023
+From: 03 August 2021 - To: 01 October 2023
 
 HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        5 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
