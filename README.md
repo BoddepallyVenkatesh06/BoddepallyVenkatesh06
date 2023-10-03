@@ -118,7 +118,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512" alt="Stack Overflow" height="40">
 </a>
 
-<a href="https://venkykumarportfolio.netlify.app/">
+<a href="https://portfolio-venky-kumar.netlify.app/">
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/website-3565633-2997433.png?f=avif&w=512" alt="Website" height="40">
 </a>
 
