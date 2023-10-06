@@ -174,7 +174,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a></p>
 
-![GitHub metrics](https://raw.githubusercontent.com/PolymerLabs/bower-metrics-dashboard/master/snap.png?token=238208__eyJzY29wZSI6IlJhd0Jsb2I6UG9seW1lckxhYnMvYm93ZXItbWV0cmljcy1kYXNoYm9hcmQvbWFzdGVyL3NuYXAucG5nIiwiZXhwaXJlcyI6MTM5ODIxMTk4M30%3D--a1c98f62d3ce07e168d35d145d52e8a1ee2babbb)  
+![GitHub metrics](https://user-images.githubusercontent.com/30294553/74002775-459c1380-4996-11ea-8c9f-fe209dd0eba8.png)  
 
 <h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
