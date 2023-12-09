@@ -110,6 +110,14 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/twitter-2752046-2284863.png?f=avif&w=512" alt="Twitter" height="40">
 </a>
 
+<a href="https://t.me/VenkyKumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=webp&w=512" alt="telegram" height="40">
+</a>
+
+<a href="https://wa.me/7000336116">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-43-189795.png?f=webp&w=512" alt="whatsapp" height="40">
+</a>
+
 <a href="https://codepen.io/venkykumar0006">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-codepen-9132422-7417313.png?f=avif&w=512" alt="CodePen" height="40">
 </a>
@@ -216,10 +224,6 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 <a href="https://leetcode.com/VenkyKumar06/">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="leetcode" height="40">
-</a>
-
-<a href="https://t.me/VenkyKumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=webp&w=512" alt="telegram" height="40">
 </a>
 
 <a href="https://codeforces.com/profile/venkykumar0006">
