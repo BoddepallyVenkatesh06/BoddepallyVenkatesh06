@@ -4,10 +4,10 @@
 
 My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
 
-- 🔭 I’m currently working on Qtech Software Company in Intern at Web developer. 
-- 🌱 I’m currently learning Bachelor of Technology in Computer Science and Engineering. 
+- 🔭 I’m currently working at Qtech Software Company in Intern at Web developer. 
+- 🌱 I’m currently studying for Bachelor of Technology in Computer Science and Engineering. 
 - 👯 I’m looking to collaborate on Front-end part & Graphic Designing. 
-- 🤔 I’m looking for help with Front-end resource. 
+- 🤔 I’m looking for help with Front-end resources. 
 - 📫 How to reach me: venkykumar06@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -127,7 +127,115 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://peerlist.io/venkykumar0006">
-  <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lgnxtqohdbatl4eoek3f" alt="Crunchbase" height="40">
+  <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lgnxtqohdbatl4eoek3f" alt="peerlist" height="40">
+</a>
+
+<a href="https://codesandbox.io/u/venkykumar06">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-sandbox-3627430-3028741.png?f=webp&w=512" alt="codesandbox" height="40">
+</a>
+
+<a href="https://www.coursera.org/learner/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-coursera-3628707-3029932.png?f=webp&w=512" alt="coursera" height="40">
+</a>
+
+<a href="https://www.crio.do/learn/portfolio/venkykumar06/">
+  <img src="https://scontent.fbho1-3.fna.fbcdn.net/v/t39.30808-6/273010181_2844031092565928_7711747982894671004_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Wf-9nZ8k2B0AX_ZheDy&_nc_ht=scontent.fbho1-3.fna&oh=00_AfBGjvnZG0PDk9L0beWjFYIMLdKpA71hhqRX3ORiJuIpWA&oe=6579DE94" alt="criodo" height="40">
+</a>
+
+<a href="https://www.credly.com/users/boddepally-venkatesh/badges">
+  <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="credly" height="40">
+</a>
+
+<a href="https://replit.com/@VenkyKumar1">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/440px-New_Replit_Logo.svg.png" alt="replit" height="40">
+</a>
+
+<a href="https://www.behance.net/venkykumar2">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/behance-2752234-2285051.png?f=webp&w=512" alt="behance" height="40">
+</a>
+
+<a href="https://dev.to/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/dev-2752213-2285030.png?f=webp&w=512" alt="dev" height="40">
+</a>
+
+<a href="https://www.quora.com/profile/Venky-Kumar-22">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-quora-2296026-1911985.png?f=webp&w=512" alt="quora" height="40">
+</a>
+
+<a href="https://in.pinterest.com/venkykumar06/">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/pinterest-2752099-2284916.png?f=webp&w=512" alt="pinterest" height="40">
+</a>
+
+<a href="linktr.ee/venkykumar0006">
+  <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="linktree" height="40">
+</a>
+
+<a href="https://medium.com/@venkykumar06">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/medium-2752124-2284941.png?f=webp&w=512" alt="medium" height="40">
+</a>
+
+<a href="https://dribbble.com/VENKY-kumar_06">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-dribbble-180-721947.png?f=webp&w=512" alt="dribbble" height="40">
+</a>
+
+<a href="https://www.futurelearn.com/profiles/12903701">
+  <img src="https://scontent.fbho1-4.fna.fbcdn.net/v/t39.30808-6/352545198_562849429122014_2358139421920045172_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=v_kwiFzy1XoAX9GkXfv&_nc_ht=scontent.fbho1-4.fna&oh=00_AfAOD7YokVPyYScX_eLR2Y3lETiD5wQUMKgSApKZ3Jekhg&oe=6579F462" alt="futurelearn" height="40">
+</a>
+
+<a href="https://www.frontendmentor.io/profile/BoddepallyVenkatesh06">
+  <img src="https://scontent.fbho1-4.fna.fbcdn.net/v/t39.30808-6/304702060_474844821306824_3479081658794433305_n.png?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=HsSzf_Wdz94AX8OKYzp&_nc_ht=scontent.fbho1-4.fna&oh=00_AfDug2M3MDlVEV6DbbQ_-R5pKIU-lzw4i5Fz8m2sD--9dg&oe=65790FAC" alt="frontendmentor" height="40">
+</a>
+
+<a href="https://jovian.com/venkykumar06">
+  <img src="https://yt3.googleusercontent.com/ytc/APkrFKa4qyDzKWz3x1T_ToSKPXLdDj6NHy5SznS1donUkg=s176-c-k-c0x00ffffff-no-rj" alt="jovian" height="40">
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-salesforce-282298.png?f=webp&w=512" alt="salesforce" height="40">
+</a>
+
+<a href="https://www.hackerrank.com/venkykumar06">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=512" alt="hackerrank" height="40">
+</a>
+
+<a href="https://www.hackerearth.com/@venky108">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/440px-HackerEarth_logo.png" alt="hackerearth" height="40">
+</a>
+
+<a href="https://profiles.topcoder.com/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-topcoder-3521765-2945263.png?f=webp&w=512" alt="topcoder" height="40">
+</a>
+
+<a href="https://www.interviewbit.com/profile/venkykumar06_15022e534ac2/">
+  <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/003/086/original/Commvault.png?1649827931" alt="interviewbit" height="40">
+</a>
+
+<a href="https://www.codechef.com/users/venkykumar06">
+  <img src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="codechef" height="40">
+</a>
+
+<a href="https://leetcode.com/VenkyKumar06/">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="leetcode" height="40">
+</a>
+
+<a href="https://t.me/VenkyKumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=webp&w=512" alt="telegram" height="40">
+</a>
+
+<a href="https://codeforces.com/profile/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=512" alt="codeforces" height="40">
+</a>
+
+<a href="https://vimeo.com/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-vimeo-167-498423.png?f=webp&w=512" alt="vimeo" height="40">
+</a>
+
+<a href="https://fueler.io/venkykumar0006">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/fullerene-9753865-7939819.png?f=webp&w=512" alt="fueler" height="40">
+</a>
+
+<a href="https://bento.me/venkykumar0006">
+  <img src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" alt="bento" height="40">
 </a>
 
 <h1 align="left">Support:</h1>
@@ -181,13 +289,13 @@ My Creative and responsible professional with excellent troubleshooting skills l
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2021 - To: 01 October 2023
+From: 03 August 2021 - To: 01 December 2023
 
 HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        5 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
-React,js         2 hrs 10 mins   ██████████████▒░░░░░░░░░░   62.78 %
-Node.js          3 hrs 24 mins   ███████████▓░░░░░░░░░░░░░   45.20 %
-Other            50 mins         ▒▒▒▒░░░░░░░░░░░░░░░░░░░░░   10.80 %
+React,js         3 hrs 10 mins   ████████████████▒░░░░░░░░   70.78 %
+Node.js          3 hrs 24 mins   █████████████▓░░░░░░░░░░░   60.20 %
+Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░   20.80 %
 ```
 
 <!--END_SECTION:waka-->
