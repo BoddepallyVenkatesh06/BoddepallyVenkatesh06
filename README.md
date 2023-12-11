@@ -126,8 +126,8 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512" alt="Stack Overflow" height="40">
 </a>
 
-<a href="https://portfolio-venky-kumar.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/website-3565633-2997433.png?f=avif&w=512" alt="Website" height="40">
+<a href="https://www.cloudskillsboost.google/public_profiles/d3e14ed2-9972-4067-b5e7-fe4dac25237a">
+  <img src="https://scontent.fbho1-4.fna.fbcdn.net/v/t39.30808-6/352531155_596019286008736_4404962734708194685_n.png?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=-d3qKkw0Sf4AX-2mOTm&_nc_ht=scontent.fbho1-4.fna&oh=00_AfBLHrTk_Yiw2lKHi4odELD-c3jyruR5erfGTTpifBkchg&oe=657C9BDF" alt="googlecloud" height="50">
 </a>
 
 <a href="https://devfolio.co/@venkykumar0006">
