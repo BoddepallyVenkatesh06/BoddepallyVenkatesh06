@@ -127,7 +127,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/d3e14ed2-9972-4067-b5e7-fe4dac25237a">
-  <img src="https://scontent.fbho1-4.fna.fbcdn.net/v/t39.30808-6/352531155_596019286008736_4404962734708194685_n.png?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=-d3qKkw0Sf4AX-2mOTm&_nc_ht=scontent.fbho1-4.fna&oh=00_AfBLHrTk_Yiw2lKHi4odELD-c3jyruR5erfGTTpifBkchg&oe=657C9BDF" alt="googlecloud" height="50">
+  <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="googlecloud" height="40">
 </a>
 
 <a href="https://devfolio.co/@venkykumar0006">
@@ -147,7 +147,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.crio.do/learn/portfolio/venkykumar06/">
-  <img src="https://scontent.fbho1-3.fna.fbcdn.net/v/t39.30808-6/273010181_2844031092565928_7711747982894671004_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Wf-9nZ8k2B0AX_ZheDy&_nc_ht=scontent.fbho1-3.fna&oh=00_AfBGjvnZG0PDk9L0beWjFYIMLdKpA71hhqRX3ORiJuIpWA&oe=6579DE94" alt="criodo" height="40">
+  <img src="https://avatars.githubusercontent.com/u/51743602?v=4" alt="criodo" height="40">
 </a>
 
 <a href="https://www.credly.com/users/boddepally-venkatesh/badges">
@@ -187,11 +187,11 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.futurelearn.com/profiles/12903701">
-  <img src="https://scontent.fbho1-4.fna.fbcdn.net/v/t39.30808-6/352545198_562849429122014_2358139421920045172_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=v_kwiFzy1XoAX9GkXfv&_nc_ht=scontent.fbho1-4.fna&oh=00_AfAOD7YokVPyYScX_eLR2Y3lETiD5wQUMKgSApKZ3Jekhg&oe=6579F462" alt="futurelearn" height="40">
+  <img src="https://www.futurelearn.com/_next/static/media/fl_logo.b0d9d0ee.svg" alt="futurelearn" height="30">
 </a>
 
 <a href="https://www.frontendmentor.io/profile/BoddepallyVenkatesh06">
-  <img src="https://scontent.fbho1-4.fna.fbcdn.net/v/t39.30808-6/304702060_474844821306824_3479081658794433305_n.png?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=HsSzf_Wdz94AX8OKYzp&_nc_ht=scontent.fbho1-4.fna&oh=00_AfDug2M3MDlVEV6DbbQ_-R5pKIU-lzw4i5Fz8m2sD--9dg&oe=65790FAC" alt="frontendmentor" height="40">
+  <img src="https://avatars.githubusercontent.com/u/47932038?s=200&v=4" alt="frontendmentor" height="40">
 </a>
 
 <a href="https://jovian.com/venkykumar06">
@@ -349,6 +349,10 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 <a href="https://leetcode.com/static/images/badges/dcc-2023-6.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" align="left" height="150" width="150" ></a>
 <a href="https://leetcode.com/static/images/badges/dcc-2023-7.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" align="left" height="150" width="150" ></a>
 <a href="https://leetcode.com/static/images/badges/dcc-2023-8.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-9.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-10.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-11.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" align="left" height="150" width="150" ></a>
+<a href="https://leetcode.com/static/images/badges/dcc-2023-12.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" align="left" height="150" width="150" ></a>
 <!--END_SECTION:badges-->
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
