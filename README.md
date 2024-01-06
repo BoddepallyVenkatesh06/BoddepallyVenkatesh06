@@ -1,4 +1,4 @@
-### Hi there 👋, Hy name is Venky Kumar
+### Hi there 👋, Hy name is Venky Kumar 
 #### I am GitHub Contributes creator
 ![I am GitHub Contributes creator](https://github-venky.netlify.app/my_image.png)
 
@@ -266,7 +266,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
  
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="GitHub View">
-        <img src="https://komarev.com/ghpvc/?username=natterstefan&color=FAC151" /></a>   
+        <img src="https://komarev.com/ghpvc/?username=natterstefan&color=0e75b6" /></a>   
  <ahref="https://github.com/badges/shields/graphs/contributors" alt="Contributors"><imgsrc="https://img.shields.io/github/contributors/badges/shields" /></a>
     <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
