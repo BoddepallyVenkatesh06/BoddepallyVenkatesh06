@@ -250,6 +250,30 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-7895283-6445013.png?f=webp&w=512" alt="glitch" height="40">
 </a>
 
+<a href="https://venky-kumar-portfoliosite.netlify.app/">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281089.png" alt="portfolio" height="40">
+</a>
+
+<a href="https://portfolio-venky-kumar.netlify.app/">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/site-7765928-6306527.png?f=webp&w=512" alt="portfolio-2" height="40">
+</a>
+
+<a href="https://boddepallyvenkatesh06.github.io/My_portfolio.github.io/">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/site-8264792-6828189.png?f=webp&w=512" alt="portfolio-3" height="40">
+</a>
+
+<a href="https://cdn-images.imagevenue.com/af/62/04/ME17VBXR_o.jpg">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-2790235-2314085.png?f=webp&w=512" alt="resume" height="40">
+</a>
+
+<a href="https://newsapp-venky-kumar.netlify.app/">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-news-364-461600.png?f=webp&w=512" alt="newsapp" height="40">
+</a>
+
+<a href="https://venky-kumar-blogsite.netlify.app/">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-blog-8-100136.png?f=webp&w=512" alt="blogsite" height="40">
+</a>
+
 <h1 align="left">Support:</h1>
 <p>
   <a href="https://www.buymeacoffee.com/venkykumar0006">
