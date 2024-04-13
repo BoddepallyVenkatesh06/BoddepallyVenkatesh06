@@ -318,7 +318,6 @@ My Creative and responsible professional with excellent troubleshooting skills l
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a></p>
 
-![GitHub metrics](https://user-images.githubusercontent.com/30294553/74002775-459c1380-4996-11ea-8c9f-fe209dd0eba8.png)  
 
 <h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
@@ -344,7 +343,7 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BoddepallyVenkatesh06)  
 
-<h2> My Last Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<h2> My Latest Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
 [![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
@@ -363,28 +362,40 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 ![Holopin Badges](https://github-venky.netlify.app/holopin_badges_1.jpeg)
 
 
-<h2> My Last GitHub / LeetCode Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
+<h2> My Microsoft Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
 
-<a href="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png" align="left" height="150" width="150" ></a>
-<a href="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-1.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-2.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-3.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-4.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-5.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-6.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-7.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-8.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-9.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-10.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-11.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" align="left" height="150" width="150" ></a>
-<a href="https://leetcode.com/static/images/badges/dcc-2023-12.png"><img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" align="left" height="150" width="150" ></a>
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vkyl6nem" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-monitoring-tools-azure.svg" alt="amplify" width="150" height="200"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/fzu4bsmx" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-features-tools-manage-deploy-azure-resources.svg" alt="amplify" width="150" height="200"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/uf52vbd3" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-azure-compute-networking-services.svg" alt="amplify" width="150" height="200"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/n79pkazf" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-cost-management-azure.svg" alt="amplify" width="150" height="200"/>
+  </a>
+  
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/dgvh9flj" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/form-recognizer-extract-data.svg" alt="amplify" width="150" height="200"/>
+  </a>
+
+ <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/n7dn6v8f" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/create-classification-model-azure-machine-learning-designer.svg" alt="amplify" width="150" height="200"/>
+  </a>
+
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/zmu7v5w2" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/publish-azure-web-app-with-visual-studio.svg" alt="amplify" width="150" height="200"/>
+  </a>
+
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vbkshs4m" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/use-tools-optimize-power-bi-performance.svg" alt="amplify" width="150" height="200"/>
+  </a>
+  
 <!--END_SECTION:badges-->
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
