@@ -365,35 +365,43 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 <h2> My Microsoft Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
 
 <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vkyl6nem" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-monitoring-tools-azure.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-monitoring-tools-azure.svg" alt="microsoft" width="150" height="200"/>
   </a>
 
   <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/fzu4bsmx" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-features-tools-manage-deploy-azure-resources.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-features-tools-manage-deploy-azure-resources.svg" alt="microsoft-2" width="150" height="200"/>
   </a>
 
   <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/uf52vbd3" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-azure-compute-networking-services.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-azure-compute-networking-services.svg" alt="microsoft-3" width="150" height="200"/>
   </a>
 
   <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/n79pkazf" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-cost-management-azure.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-cost-management-azure.svg" alt="microsoft-4" width="150" height="200"/>
   </a>
   
 <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/dgvh9flj" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/form-recognizer-extract-data.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/form-recognizer-extract-data.svg" alt="microsoft-5" width="150" height="200"/>
   </a>
 
  <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/n7dn6v8f" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/create-classification-model-azure-machine-learning-designer.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/create-classification-model-azure-machine-learning-designer.svg" alt="microsoft-6" width="150" height="200"/>
   </a>
 
 <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/zmu7v5w2" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/publish-azure-web-app-with-visual-studio.svg" alt="amplify" width="150" height="200"/>
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/publish-azure-web-app-with-visual-studio.svg" alt="microsoft-7" width="150" height="200"/>
   </a>
 
-<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vbkshs4m" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-gb/training/achievements/use-tools-optimize-power-bi-performance.svg" alt="amplify" width="150" height="200"/>
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/n7dn6gsf" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/read-text-computer-vision.svg" alt="microsoft-8" width="150" height="200"/>
+  </a>
+
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/9n8vp3qu" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/introduction-to-web-development.svg" alt="microsoft-9" width="150" height="200"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vbkshs4m" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-gb/training/achievements/use-tools-optimize-power-bi-performance.svg" alt="microsoft-10" width="150" height="200"/>
   </a>
   
 <!--END_SECTION:badges-->
