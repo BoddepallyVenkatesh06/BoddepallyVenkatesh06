@@ -132,7 +132,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.hackerearth.com/@venky108">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/440px-HackerEarth_logo.png" alt="hackerearth" height="40">
+  <img src="https://cdn.hackerearth.com/static/hackerearth/images/logo/HE_identity_white.png" alt="hackerearth" height="40">
 </a>
 
 <a href="https://profiles.topcoder.com/venkykumar0006">
@@ -144,11 +144,11 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.codechef.com/users/venkykumar06">
-  <img src="https://img.icons8.com/?size=96&id=LnZMjt9rZC3d&format=png" alt="codechef" height="40">
+  <img src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="40">
 </a>
 
 <a href="https://leetcode.com/VenkyKumar06/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="leetcode" height="40">
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="leetcode" height="40">
 </a>
 
 <a href="https://codeforces.com/profile/venkykumar0006">
