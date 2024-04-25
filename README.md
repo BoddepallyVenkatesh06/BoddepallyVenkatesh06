@@ -210,9 +210,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 ![trophy](https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoddepallyVenkatesh06)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github2-venky.netlify.app/github_stats.png" alt="Venky Kumar GitHub stats" width="460" height="99%">
+<img src="https://github2-venky.netlify.app/github_stats.png" alt="Venky Kumar GitHub stats" width="370" height="99%"><img src="https://github2-venky.netlify.app/MUL.png" alt="Venky Kumar GitHub stats" width="300" height="90%"> 
 
 ![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
 
