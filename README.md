@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Venky Kumar 
-#### I am GitHub Contributes Creator
-![I am GitHub Contributes creator](https://github-venky.netlify.app/my_image.png)
+## Hi there 👋, My name is Venky Kumar 
+#### I am a GitHub Contributes Creator
+![I am a GitHub Contributes creator](https://github-venky.netlify.app/my_image.png)
 
 My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
 
-- 🔭 I’m currently Full Stack Web Developer. 
-- 🌱 I’m currently Passout Bachelor of Technology in Computer Science and Engineering - 2024. 
+- 🔭 I’m currently a Full Stack Web Developer. 
+- 🌱 I’m currently a Graduate student in B.Tech (CSE)- 2024 Batch 
 - 👯 I’m looking to collaborate on the Front-end/Back-end part & Graphic Designing. 
 - 🤔 I’m looking for help with Front-end/Back-end resources. 
 - 📫 How to reach me: venkykumar06@gmail.com 
@@ -112,7 +112,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.futurelearn.com/profiles/12903701">
-  <img src="https://www.futurelearn.com/_next/static/media/fl_logo.b0d9d0ee.svg" alt="futurelearn" height="30">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRngR9gTmBpo77C0-lcyYWsErO4bkKfLermcH0PzFngN3y8C7VKPJDy2da88oPUyX8JV2g&usqp=CAU" alt="futurelearn" height="40">
 </a>
 
 <a href="https://www.frontendmentor.io/profile/BoddepallyVenkatesh06">
@@ -144,7 +144,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.codechef.com/users/venkykumar06">
-  <img src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="codechef" height="40">
+  <img src="https://img.icons8.com/?size=96&id=LnZMjt9rZC3d&format=png" alt="codechef" height="40">
 </a>
 
 <a href="https://leetcode.com/VenkyKumar06/">
@@ -168,11 +168,11 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://glitch.com/@venkykumar06">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-7895283-6445013.png?f=webp&w=512" alt="glitch" height="40">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-2752180-2284997.png?f=webp&w=512" alt="glitch" height="40">
 </a>
 
 <a href="https://venky-kumar-portfoliosite.netlify.app/">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281089.png" alt="portfolio" height="40">
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png" alt="portfolio" height="40">
 </a>
 
 <a href="https://portfolio-venky-kumar.netlify.app/">
