@@ -8,7 +8,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 - 🌱 I’m currently a Graduate student in B.Tech (CSE)- 2024 Batch 
 - 👯 I’m looking to collaborate on the Front-end/Back-end part & Graphic Designing. 
 - 🤔 I’m looking for help with Front-end/Back-end resources. 
-- 📫 How to reach me: venkykumar06@gmail.com 
+- 📫 How to reach me: ✉️ venkykumar06@gmail.com 
 
 <h3 align="left">Languages & Tools Works 100+:</h3>
 
@@ -16,7 +16,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 <h3 align="left">My Portfolio Site:</h3>
 <a href="https://github.com/BoddepallyVenkatesh06">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=512" alt="GitHub" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" height="45">
 </a>
 
 <a href="https://www.linkedin.com/in/venkykumar0006/">
