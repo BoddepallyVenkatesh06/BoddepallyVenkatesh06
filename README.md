@@ -183,7 +183,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/site-8264792-6828189.png?f=webp&w=512" alt="portfolio-3" height="40">
 </a>
 
-<a href="https://cdn-images.imagevenue.com/af/62/04/ME17VBXR_o.jpg">
+<a href="https://venky-resume.netlify.app/">
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-2790235-2314085.png?f=webp&w=512" alt="resume" height="40">
 </a>
 
