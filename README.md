@@ -211,10 +211,8 @@ My Creative and responsible professional with excellent troubleshooting skills l
 ![trophy](https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43)
 
 
-<img src="https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/overview.svg" width="300" height="99%">
-<a href="https://github-languages-venky.netlify.app/">
-    <img src="https://github-venky-kumar.netlify.app/languages.png" alt="Venky Kumar GitHub stats" width="300" height="87%">
-</a>
+<img src="https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/overview.svg" width="300" height="99%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" width="310" height="99%">
+
 
 
 ![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
