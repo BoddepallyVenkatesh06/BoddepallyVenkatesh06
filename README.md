@@ -221,28 +221,24 @@ My Creative and responsible professional with excellent troubleshooting skills l
 ![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+ ## License
  
-<p align="center">
-    <a href="#" alt="GitHub View">
-        <img src="https://komarev.com/ghpvc/?username=natterstefan&color=0e75b6" /></a>   
- <ahref="https://github.com/badges/shields/graphs/contributors" alt="Contributors"><imgsrc="https://img.shields.io/github/contributors/badges/shields" /></a>
-    <a href="#backers" alt="Backers on Open Collective">
-        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
-    <a href="#sponsors" alt="Sponsors on Open Collective">
-        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
-    <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-    <a href="https://circleci.com/gh/badges/daily-tests">
-        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
-            alt="service-test status"></a>
-    <a href="https://coveralls.io/github/badges/shields">
-        <img src="https://img.shields.io/coveralls/github/badges/shields"
-            alt="coverage"></a>
-    <a href="https://discord.gg/HjJCwm5">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord"></a></p>
+<div align="center">
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+![Maintainer](https://img.shields.io/badge/Maintainer-Venky%20kumar-blue?style=for-the-badge)
+![Profileviews](https://img.shields.io/badge/Profile%20Views-20%2C000-orange?style=for-the-badge)
+![Brackers](https://img.shields.io/badge/brackers-1000-yellow?style=for-the-badge)
+![Sponsors](https://img.shields.io/badge/sponsors-100-pink?style=for-the-badge)
+![Builds](https://img.shields.io/badge/builds-passing-indigo?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-98%25-purple?style=for-the-badge)
+![Unittest](https://img.shields.io/badge/Unit%20Test-100%25-red?style=for-the-badge)
+![Activity](https://img.shields.io/badge/Commit%20activity-50%2Fmonth-olive?style=for-the-badge)
+![Chat](https://img.shields.io/badge/Chat%20any%20time-online-tomato%20?style=for-the-badge)
+
+</div>
+<hr>
 
 
 <h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
@@ -252,8 +248,8 @@ My Creative and responsible professional with excellent troubleshooting skills l
 ```txt
 From: 03 August 2021 - To: 01 May 2024
 
-HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
-JavScript        5 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
+HTML5/CSS        8 hrs 30 mins   ██████████████████████░░░   90.18 %
+JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
 React,js         3 hrs 10 mins   ███████████████████████░░   96.18 %
 Node.js          3 hrs 24 mins   █████████████▓░░░░░░░░░░░   60.20 %
 Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░   20.80 %
