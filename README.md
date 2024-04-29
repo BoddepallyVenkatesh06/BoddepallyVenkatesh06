@@ -1,5 +1,6 @@
-## Hi there 👋, My name is Venky Kumar 
-#### I am a GitHub Contributes Creator
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">, I'm Venky Kumar</h1>
+<h3 align="center">I'm GitHub Contributes Creator</h3>
+
 ![I am a GitHub Contributes creator](https://github-venky.netlify.app/my_image.png)
 
 My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
