@@ -211,17 +211,18 @@ My Creative and responsible professional with excellent troubleshooting skills l
 ![trophy](https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43)
 
 
-<a target="_blank" href="https://github-stats-venky.netlify.app/" target="_blank">
+
+<a href="https://github-stats-venky.netlify.app/">
     <img src="https://github-venky-kumar.netlify.app/Stats.png" alt="Venky Kumar GitHub stats" width="370" height="99%">
 </a> &nbsp;&nbsp;
-<a target="_blank" href="https://github-languages-venky.netlify.app/" target="_blank">
+<a href="https://github-languages-venky.netlify.app/">
     <img src="https://github-venky-kumar.netlify.app/languages.png" alt="Venky Kumar GitHub stats" width="300" height="87%">
 </a>
 
 
 ![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+![Venky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
  ## License
  
