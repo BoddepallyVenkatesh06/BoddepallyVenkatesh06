@@ -223,7 +223,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  
 <p align="center">
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="GitHub View">
+    <a href="#" alt="GitHub View">
         <img src="https://komarev.com/ghpvc/?username=natterstefan&color=0e75b6" /></a>   
  <ahref="https://github.com/badges/shields/graphs/contributors" alt="Contributors"><imgsrc="https://img.shields.io/github/contributors/badges/shields" /></a>
     <a href="#backers" alt="Backers on Open Collective">
