@@ -217,6 +217,12 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 ![LeetCode Profile](https://github-venky.netlify.app/LeetCode_Profile.png)
 
+<div align = "center">
+    <img src = "https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/contribution-grid-snake.svg" width = 100%/>
+  </div>
+  
+  <hr>
+
 ![Venky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
  ## License
