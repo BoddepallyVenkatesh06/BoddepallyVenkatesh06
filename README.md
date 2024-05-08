@@ -197,7 +197,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.figma.com/@venkykumar">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512" alt="blogsite" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512" alt="figma" height="40">
 </a>
 
 <hr>
