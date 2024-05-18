@@ -52,8 +52,16 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512" alt="Stack Overflow" height="40">
 </a>
 
+<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-26-722716.png?f=webp&w=512" alt="microsoft" height="40">
+</a>
+
 <a href="https://www.cloudskillsboost.google/public_profiles/d3e14ed2-9972-4067-b5e7-fe4dac25237a">
   <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="googlecloud" height="40">
+</a>
+
+<a href="https://developers.google.com/profile/u/venkykumar0006">
+  <img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="googledeveloper" height="40">
 </a>
 
 <a href="https://devfolio.co/@venkykumar0006">
@@ -78,6 +86,10 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 <a href="https://www.credly.com/users/boddepally-venkatesh/badges">
   <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="credly" height="40">
+</a>
+
+<a href="https://credly.netlify.app/">
+  <img src="https://theme.zdassets.com/theme_assets/2382499/cbf082693b966d5c5e6e30fa455853afb22f0079.ico" alt="credly" height="40">
 </a>
 
 <a href="https://replit.com/@VenkyKumar1">
@@ -137,7 +149,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://profiles.topcoder.com/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-topcoder-3521765-2945263.png?f=webp&w=512" alt="topcoder" height="40">
+  <img src="https://www.svgrepo.com/show/353383/airtable.svg" alt="topcoder" height="40">
 </a>
 
 <a href="https://www.interviewbit.com/profile/venkykumar06_15022e534ac2/">
