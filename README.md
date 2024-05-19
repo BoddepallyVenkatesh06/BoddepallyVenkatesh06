@@ -185,15 +185,15 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://venky-kumar-portfoliosite.netlify.app/">
-  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png" alt="portfolio" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889541-1597601.png?f=webp&w=512" alt="portfolio" height="40">
 </a>
 
 <a href="https://portfolio-venky-kumar.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/site-7765928-6306527.png?f=webp&w=512" alt="portfolio-2" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889540-1597600.png?f=webp&w=512" alt="portfolio-2" height="40">
 </a>
 
 <a href="https://boddepallyvenkatesh06.github.io/My_portfolio.github.io/">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/site-8264792-6828189.png?f=webp&w=512" alt="portfolio-3" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-vk-3771212-3147829.png?f=webp&w=512" alt="portfolio-3" height="40">
 </a>
 
 <a href="https://venky-resume.netlify.app/">
