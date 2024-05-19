@@ -212,6 +212,38 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512" alt="figma" height="40">
 </a>
 
+<a href="#">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKW15rvDRWZbxNZXUNpENt1kAp3-f4IkFHSVM-ICLSpXCLTx2UmoIxHEjsa7uJ11n0-YA&usqp=CAU" alt="cssdeck" height="35">
+</a>
+
+<a href="#">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-flickr-200-721956.png?f=webp&w=512" alt="flickr" height="40">
+</a>
+
+<a href="#">
+  <img src="https://media.licdn.com/dms/image/D4D0BAQERU7ZcSiM4WA/company-logo_200_200/0/1694513045769/freepik_company_logo?e=2147483647&v=beta&t=lgEXWJI-zhDeZd5MjHFreAL7EkDKZ8r_mpF_rCWAHKY" alt="freepik" height="40">
+</a>
+
+<a href="#">
+  <img src="https://media.licdn.com/dms/image/D4E0BAQESr04JpLm5dw/company-logo_200_200/0/1705511794393/pexels_logo?e=2147483647&v=beta&t=K0Kalg0YWCDRJVDicEOUyZFAGbX-aBy9fTiWQ-fP8eo" alt="pexels" height="40">
+</a>
+
+<a href="#">
+  <img src="https://media.licdn.com/dms/image/C560BAQGggO3on4xk-A/company-logo_200_200/0/1630670724161/playbook_hq_logo?e=2147483647&v=beta&t=YfCHdrCAXvwguGFabUXgw1ZkDvjsMxgbHqgUtTQ5psQ" alt="playbook" height="40">
+</a>
+
+<a href="#">
+  <img src="https://pbs.twimg.com/profile_images/514487290521870336/fmAar7M9_400x400.png" alt="plunker" height="40">
+</a>
+
+<a href="#">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-shutterstock-2296021-1911980.png?f=webp&w=512" alt="shutterstock" height="35">
+</a>
+
+<a href="#">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-unsplash-3770972-3147589.png?f=webp&w=512" alt="unsplash" height="32">
+</a>
+
 <hr>
 
 <h1 align="left">Support:</h1>
