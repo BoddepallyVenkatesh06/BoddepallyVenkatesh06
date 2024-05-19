@@ -241,7 +241,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="#">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-unsplash-3770972-3147589.png?f=webp&w=512" alt="unsplash" height="32">
+  <img src="https://uploads-ssl.webflow.com/5b0c471ddb589cf22d4477a4/5cd716028463a5a1d1b1e73d_unsplash-app-icon-2.png" alt="unsplash" height="40">
 </a>
 
 <hr>
