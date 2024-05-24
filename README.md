@@ -316,7 +316,7 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
-<img src="https://streak-stats.demolab.com/?user=BoddepallyVenkatesh06" width="430">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoddepallyVenkatesh06&theme=flag_india" width="450" height="200">
+<img src="https://streak-stats.demolab.com/?user=BoddepallyVenkatesh06" width="430">&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoddepallyVenkatesh06&theme=flag_india" width="450" height="200">
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BoddepallyVenkatesh06&theme=default">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoddepallyVenkatesh06&theme=default">
