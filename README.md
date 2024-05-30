@@ -145,7 +145,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://www.hackerearth.com/@venky108">
-  <img src="https://ik.imagekit.io/rolex/hackerearth-logo?updatedAt=1715452536674" alt="hackerearth" height="40">
+  <img src="https://cdn-icons-png.freepik.com/512/5379/5379239.png" alt="hackerearth" height="40">
 </a>
 
 <a href="https://profiles.topcoder.com/venkykumar0006">
