@@ -281,7 +281,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 ![Maintainer](https://img.shields.io/badge/Maintainer-Venky%20kumar-blue?style=for-the-badge)
-![Profileviews](https://img.shields.io/badge/Profile%20Views-20%2C000-orange?style=for-the-badge)
+![Profileviews](https://komarev.com/ghpvc/?username=BoddepallyVenkatesh06&color=orange&style=for-the-badge)
 ![Brackers](https://img.shields.io/badge/brackers-1000-yellow?style=for-the-badge)
 ![Sponsors](https://img.shields.io/badge/sponsors-100-pink?style=for-the-badge)
 ![Builds](https://img.shields.io/badge/builds-passing-indigo?style=for-the-badge)
