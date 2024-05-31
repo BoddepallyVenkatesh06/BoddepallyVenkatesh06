@@ -285,7 +285,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 ![Brackers](https://img.shields.io/badge/brackers-1000-yellow?style=for-the-badge)
 ![Sponsors](https://img.shields.io/badge/sponsors-100-pink?style=for-the-badge)
 ![Builds](https://img.shields.io/badge/builds-passing-indigo?style=for-the-badge)
-![Coverage](https://img.shields.io/badge/Coverage-98%25-purple?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-100%25-purple?style=for-the-badge)
 ![Unittest](https://img.shields.io/badge/Unit%20Test-100%25-red?style=for-the-badge)
 ![Activity](https://img.shields.io/badge/Commit%20activity-50%2Fmonth-olive?style=for-the-badge)
 ![Chat](https://img.shields.io/badge/Chat%20any%20time-online-tomato%20?style=for-the-badge)
