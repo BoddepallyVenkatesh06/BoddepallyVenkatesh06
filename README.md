@@ -40,7 +40,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=webp&w=512" alt="telegram" height="40">
 </a>
 
-<a href="https://wa.me/7000336116">
+<a href="https://www.youtube.com/channel/UCW7l4zOlEtssyTRUD5E85HA">
   <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="youtub" height="40">
 </a>
 
