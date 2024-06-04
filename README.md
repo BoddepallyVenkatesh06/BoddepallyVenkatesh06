@@ -3,7 +3,7 @@
 
 ![I am a GitHub Contributes creator](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/Front_Image.png)
 
-My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.....
+My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
 
 - 🔭 I’m currently a Full Stack Web Developer. 
 - 🌱 I’m currently a Graduate student in B.Tech (CSE)- 2024 Batch 
