@@ -1,15 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">, I'm Venky Kumar</h1>
-<h3 align="center">I'm GitHub Contributes Creator</h3>
+<h1 align="center"> <img src="https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/Hi.gif" alt = "hi" width="40px" height="40px">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Dear+GitHubers...;I'm+GitHub+Contributes+Creator!;My+Name+is+Venky+Kumar!;I'm+Software+Developer!;Interested+in+Cyber+Security+too!" alt="Typing SVG" /> </h1>
 
 ![I am a GitHub Contributes creator](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/Front_Image.png)
 
 My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
 
 - 🔭 I’m currently a Full Stack Web Developer. 
-- 🌱 I’m currently a Graduate student in B.Tech (CSE)- 2024 Batch 
+- 🎓 I’m currently a Graduate student in B.Tech (CSE)- 2020 - 2024 Batch (OPJU)
+- 🏛️ I’m currently studying an E-Master (AL & ML)- 2024 - 2025 Batch (IIIT Bangalore)
 - 👯 I’m looking to collaborate on the Front-end/Back-end part & Graphic Designing. 
-- 🤔 I’m looking for help with Front-end/Back-end resources. 
-- 📫 How to reach me: ✉️ venkykumar06@gmail.com 
+- 🤔 I’m looking for help with Front-end/Back-end & AL/ML resources. 
+- 📫 How to reach me: ✉️ <a href="mailto:venkykumar06@gmail.com">Venky Kumar</a>
 
 <h3 align="left">Languages & Tools I'm Works on 100+:</h3>
 
@@ -333,7 +334,7 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 [![Cybersecurity IT Fundamentals Specialization](https://images.credly.com/size/150x200/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](https://www.credly.com/org/ibm/badge/cybersecurity-it-fundamentals-specialization "Cybersecurity IT Fundamentals Specialization")
 [![Network Security & Database Vulnerabilities](https://images.credly.com/size/150x200/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png)](https://www.credly.com/org/ibm/badge/network-security-database-vulnerabilities "Network Security & Database Vulnerabilities")
 [![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/150x200/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](https://www.credly.com/org/ibm/badge/cybersecurity-compliance-framework-system-administration "Cybersecurity Compliance Framework & System Administration")
-[![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/150x200/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/org/ibm/badge/introduction-to-cybersecurity-tools-cyber-attacks "Introduction to Cybersecurity Tools & Cyber Attacks")
+[![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/150x200/images/38d67952-85b2-4a05-b793-9213148a368b/image.png)](https://www.credly.com/org/ibm/badge/introduction-to-cybersecurity-tools-cyber-attacks "Introduction to Cybersecurity Tools & Cyber Attacks")
 
 ![Holopin Badges](https://github-venky.netlify.app/holopin_badges.jpeg)
 
