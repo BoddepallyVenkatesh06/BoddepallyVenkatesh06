@@ -41,7 +41,7 @@ My Creative and responsible professional with excellent troubleshooting skills l
 </a>
 
 <a href="https://wa.me/7000336116">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-43-189795.png?f=webp&w=512" alt="whatsapp" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="youtub" height="40">
 </a>
 
 <a href="https://codepen.io/venkykumar0006">
