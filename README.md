@@ -336,10 +336,11 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 [![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/150x200/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](https://www.credly.com/org/ibm/badge/cybersecurity-compliance-framework-system-administration "Cybersecurity Compliance Framework & System Administration")
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/150x200/images/38d67952-85b2-4a05-b793-9213148a368b/image.png)](https://www.credly.com/org/ibm/badge/introduction-to-cybersecurity-tools-cyber-attacks "Introduction to Cybersecurity Tools & Cyber Attacks")
 
-![Holopin Badges](https://github-venky.netlify.app/holopin_badges.jpeg)
 
-![Holopin Badges](https://github-venky.netlify.app/holopin_badges_1.jpeg)
+<h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="50"> </h2>
 
+<a href="https://holopin-venky.netlify.app/#" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/rolex/HoloPin.png?updatedAt=1717700015599"/></a>
+    
 
 <h2> My Microsoft Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
 
