@@ -330,11 +330,11 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 [![LFC108: Cybersecurity Fundamentals](https://images.credly.com/size/150x200/images/61dcfaa2-99a0-4e36-909e-04b56dcbcfc2/image.png)]( https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863 "Cybersecurity Fundamentals")
 [![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/150x200/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Fundamentals of Quantum Computing")
 [![IBM Cloud Essentials](https://images.credly.com/size/150x200/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://ibm-cloud-essentials.netlify.app/)
-[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/150x200/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://enterprise-design-thinking-co-creator.netlify.app/)
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/150x200/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](https://enterprise-design-thinking-practition.netlify.app/)
+[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/150x200/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://enterprise-design-thinking-co-creator.netlify.app/)
 [![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/150x200/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](https://enterprise-design-thinking-team-ai.netlify.app/)
-[![Data Science with Scala](https://images.credly.com/size/150x200/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://data-science-with-scala.netlify.app/)
-[![Containers & Kubernetes Essentials](https://images.credly.com/size/150x200/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png)](https://containers-and-kubernetes-essentials.netlify.app/)
+[![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/150x200/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](https://enterprise-design-sustainability.netlify.app/)
+[![Enterprise Design Thinking Leader](https://images.credly.com/size/150x200/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png)](https://enterprise-design-thinking-leader.netlify.app/)
 
 
 <h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="50"> </h2>
