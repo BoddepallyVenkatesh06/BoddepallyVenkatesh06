@@ -339,7 +339,7 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 
 <h2> My Postman Badges <img src = "https://cdnl.iconscout.com/lottie/premium/thumb/star-badge-5634760-4707792.gif" width="50"> </h2>
 
-<img src = "https://media.badgr.com/uploads/badges/badge-XFiL6JXQQyWlWAV_Iklo4Q.png" width="150" height="150"><img src = "https://media.badgr.com/uploads/badges/942db531-0a0e-4435-b7d3-7ef5cd0cd939.png" width="150" height="150"><img src = "https://media.badgr.com/uploads/badges/badge-IgUsPlotSEK30hfC7zSUzA.png" width="150" height="150"><img src = "https://media.badgr.com/uploads/badges/1adacd02-2d29-432d-bcbb-830e5adbb726.png" width="150" height="150">
+<img src = "https://media.badgr.com/uploads/badges/badge-XFiL6JXQQyWlWAV_Iklo4Q.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/942db531-0a0e-4435-b7d3-7ef5cd0cd939.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/badge-IgUsPlotSEK30hfC7zSUzA.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/1adacd02-2d29-432d-bcbb-830e5adbb726.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/badge-6ie1-Fn_SQ-u3cPcrpVqHw.png" width="150" height="150">
 
 
 <h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="50"> </h2>
