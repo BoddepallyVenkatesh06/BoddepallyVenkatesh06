@@ -325,6 +325,7 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 <h2> My Latest Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
+
 [![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
 [![Interact with Dashboards and Reports](https://images.credly.com/size/150x200/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png)](https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9 "Interact with Dashboards and Reports")
 [![LFC108: Cybersecurity Fundamentals](https://images.credly.com/size/150x200/images/61dcfaa2-99a0-4e36-909e-04b56dcbcfc2/image.png)]( https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863 "Cybersecurity Fundamentals")
@@ -336,16 +337,33 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 [![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/150x200/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](https://enterprise-design-sustainability.netlify.app/)
 [![Enterprise Design Thinking Leader](https://images.credly.com/size/150x200/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png)](https://enterprise-design-thinking-leader.netlify.app/)
 
+<!--END_SECTION:badges-->
+
+<!--START_SECTION:badges-->
 
 <h2> My Postman Badges <img src = "https://cdnl.iconscout.com/lottie/premium/thumb/star-badge-5634760-4707792.gif" width="50"> </h2>
 
 <img src = "https://media.badgr.com/uploads/badges/badge-XFiL6JXQQyWlWAV_Iklo4Q.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/942db531-0a0e-4435-b7d3-7ef5cd0cd939.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/badge-IgUsPlotSEK30hfC7zSUzA.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/1adacd02-2d29-432d-bcbb-830e5adbb726.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/badge-6ie1-Fn_SQ-u3cPcrpVqHw.png" width="150" height="150">
 
+<!--END_SECTION:badges-->
+
+<!--START_SECTION:badges-->
+
+<h2> My IBM Professional Badges <img src = "https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/badge.gif" width="50"> </h2>
+
+<img src = "https://ik.imagekit.io/rolex/Full%20Stack%20Software%20Developer%20Professional%20Certificate?updatedAt=1717957488506" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/IT%20Project%20Manager%20Professional%20Certificate?updatedAt=1717957488409" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/Professional_Certificate_-_IBM_Cybersecurity_Analyst?updatedAt=1717957488513" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/Professional_Certificate_-_AI_Engineering?updatedAt=1717957488357" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/Professional_Certificate_-_Data_Analyst?updatedAt=1717957488415" width="150" height="150">
+
+<!--END_SECTION:badges-->
+
+<!--START_SECTION:badges-->
 
 <h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="50"> </h2>
 
 <a href="https://holopin-io-venky-kumar-0006.netlify.app/#" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/rolex/HoloPin.png?updatedAt=1717700015599"/></a>
-    
+
+<!--END_SECTION:badges-->
+
+<!--START_SECTION:badges-->
 
 <h2> My Microsoft Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
 
