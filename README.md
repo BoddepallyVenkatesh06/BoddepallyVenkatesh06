@@ -3,13 +3,13 @@
 
 ![I am a GitHub Contributes creator](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/Front_Image.png)
 
-My Creative and responsible professional with excellent troubleshooting skills looking for a position as a Software Developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance, as well as developing new software functionalities.
+My creative and responsible professional, with excellent troubleshooting skills, is looking for a position as a software developer. Fundamental knowledge of software design and exceptional programming skills. Experience in improving and updating software performance and developing new software functionalities.
 
 - 🔭 I’m currently a Full Stack Web Developer. 
-- 🎓 I’m currently a Graduate student in B.Tech (CSE)- 2020 - 2024 Batch (OPJU)
-- 🏛️ I’m currently studying an E-Master (AL & ML)- 2024 - 2025 Batch (IIIT Bangalore)
-- 👯 I’m looking to collaborate on the Front-end/Back-end part & Graphic Designing. 
-- 🤔 I’m looking for help with Front-end/Back-end & AL/ML resources. 
+- 🎓 I’m currently a Graduate student in B.Tech (CSE) - 2020 - 2024 Batch (O. P. Jindal University, Raigarh)
+- 🏛️ I’m currently pursuing an E-Master (AL & ML) - 2024 - 2025 Batch (International Institute of Information Technology, Bangalore)
+- 👯 I want to collaborate on the Front-end/Back-end part & Graphic Designing. 
+- 🤔 I’m seeking help with Front-end/Back-end & AL/ML resources. 
 - 📫 How to reach me: ✉️ <a href="mailto:venkykumar06@gmail.com">Venky Kumar</a>
 
 <h3 align="left">Languages & Tools I'm Works on 100+:</h3>
