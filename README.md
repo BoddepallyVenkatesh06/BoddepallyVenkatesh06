@@ -337,6 +337,11 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 [![Enterprise Design Thinking Leader](https://images.credly.com/size/150x200/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png)](https://enterprise-design-thinking-leader.netlify.app/)
 
 
+<h2> My Postman Badges <img src = "https://cdnl.iconscout.com/lottie/premium/thumb/star-badge-5634760-4707792.gif" width="50"> </h2>
+
+<img src = "https://media.badgr.com/uploads/badges/badge-XFiL6JXQQyWlWAV_Iklo4Q.png" width="150" height="150"><img src = "https://media.badgr.com/uploads/badges/942db531-0a0e-4435-b7d3-7ef5cd0cd939.png" width="150" height="150"><img src = "https://media.badgr.com/uploads/badges/badge-IgUsPlotSEK30hfC7zSUzA.png" width="150" height="150"><img src = "https://media.badgr.com/uploads/badges/1adacd02-2d29-432d-bcbb-830e5adbb726.png" width="150" height="150">
+
+
 <h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="50"> </h2>
 
 <a href="https://holopin-io-venky-kumar-0006.netlify.app/#" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/rolex/HoloPin.png?updatedAt=1717700015599"/></a>
