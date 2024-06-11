@@ -169,6 +169,10 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=512" alt="codeforces" height="40">
 </a>
 
+<a href="https://atcoder-venky-kumar.netlify.app/">
+  <img src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="40">
+</a>
+
 <a href="https://vimeo.com/venkykumar0006">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-vimeo-167-498423.png?f=webp&w=512" alt="vimeo" height="40">
 </a>
@@ -195,10 +199,6 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 
 <a href="https://portfolio-venky-kumar.netlify.app/">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889540-1597600.png?f=webp&w=512" alt="portfolio-2" height="40">
-</a>
-
-<a href="https://boddepallyvenkatesh06.github.io/My_portfolio.github.io/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-vk-3771212-3147829.png?f=webp&w=512" alt="portfolio-3" height="40">
 </a>
 
 <a href="https://venky-resume.netlify.app/">
