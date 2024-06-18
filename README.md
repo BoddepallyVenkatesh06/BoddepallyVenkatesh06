@@ -6,8 +6,8 @@
 I'm a creative and responsible professional with excellent troubleshooting skills, seeking a position as a Software Developer. I have a fundamental knowledge of software design and exceptional programming skills. I also have experience in improving and updating software performance and developing new software functionalities.
 
 - 🔭 I’m currently a Full Stack Web Developer. 
-- 🎓 I’m currently a Graduate student in B.Tech (CSE) - 2020 - 2024 Batch (O. P. Jindal University, Raigarh).
-- 🏛️ I’m currently pursuing an E-Master (AL & ML) - 2024 - 2025 Batch (International Institute of Information Technology, Bangalore).
+- 🎓 I’m currently a Graduate student in B.Tech (CSE) - 2020 - 2024 Batch (O. P. Jindal University, Raigarh)
+- 🏛️ I’m currently pursuing an E-Master (AL & ML) - 2024 - 2025 Batch (International Institute of Information Technology, Bangalore)
 - 👯 I want to collaborate on the Front-end/Back-end part & Graphic Designing. 
 - 🤔 I’m seeking help with Front-end/Back-end & AL/ML resources. 
 - 📫 How to reach me: ✉️ <a href="mailto:venkykumar06@gmail.com">Venky Kumar</a>
