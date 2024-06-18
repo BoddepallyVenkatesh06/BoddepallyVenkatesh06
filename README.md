@@ -155,11 +155,11 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   <img src="https://www.svgrepo.com/show/353383/airtable.svg" alt="topcoder" height="40">
 </a>
 
-<a href="https://www.interviewbit.com/profile/venkykumar06_15022e534ac2/">
-  <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/003/086/original/Commvault.png?1649827931" alt="interviewbit" height="40">
+<a href="">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsGZ6G_dUXxPoy4DFFDdDRVDNr3_9pPJ4mw&s" alt="Codebyte" height="40">
 </a>
 
-<a href="https://www.codechef.com/users/venkykumar06">
+<a href="https://codechef-venkykumar0006.netlify.app/">
   <img src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="40">
 </a>
 
@@ -167,7 +167,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="leetcode" height="40">
 </a>
 
-<a href="https://codeforces.com/profile/venkykumar0006">
+<a href="https://codeforces-venkykumar0006.netlify.app/">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=512" alt="codeforces" height="40">
 </a>
 
