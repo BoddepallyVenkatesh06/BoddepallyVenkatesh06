@@ -116,7 +116,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 </a>
 
 <a href="linktr.ee/venkykumar0006">
-  <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="linktree" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcJlMeNqxnp7OJXhogY4RHQoacZ7Bi25abQ&s" alt="linktree" height="40">
 </a>
 
 <a href="https://medium.com/@venkykumar06">
