@@ -115,7 +115,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/pinterest-2752099-2284916.png?f=webp&w=512" alt="pinterest" height="40">
 </a>
 
-<a href="linktr.ee/venkykumar0006">
+<a href="https://linktr.ee/venkykumar0006">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcJlMeNqxnp7OJXhogY4RHQoacZ7Bi25abQ&s" alt="linktree" height="40">
 </a>
 
