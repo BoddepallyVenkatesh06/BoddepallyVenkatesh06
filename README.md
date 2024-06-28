@@ -13,7 +13,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 - 📫 How to reach me: ✉️ <a href="mailto:venkykumar06@gmail.com">Venky Kumar</a>
 
 <details>
-<summary><h1 align="left">Languages & Tools:</h1><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/L%26T.gif" width="60"> </h2></summary>                                                                                                                                                                                     
+<summary><h2 align="left">Languages & Tools</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/L%26T.gif" width="40"> </h2></summary>                                                                                                                                                                                     
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
@@ -68,7 +68,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 
 <details>
   
-<summary><h1 align="left">My Portfolio Site:</h1><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Portfolio.gif" width="70"> </h2></summary>
+<summary><h2 align="left">My Portfolio Site</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Portfolio.gif" width="70"> </h2></summary>
 
 <a href="https://www.facebook.com/venkykumar.5602">
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=avif&w=512" alt="Facebook" height="40">
@@ -303,7 +303,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 
 <details>
   
-<summary><h2 align="left">Support:</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Support.gif" width="50"></summary>
+<summary><h2 align="left">Support</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Support.gif" width="50"></summary>
 <p>
   <a href="https://www.buymeacoffee.com/venkykumar0006">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
@@ -321,7 +321,8 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 
 </details>
 
-<hr>
+<details>
+<summary><h2 align="left">Leetcode Profile</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Leetcode.gif" width="40"> </h2></summary>                                                                                                                                                                          
 
 <p align="center"><a href="https://github.com/BoddepallyVenkatesh06"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F70E0E&random=false&width=435&lines=Welcome+to+My+Leetcode+Profile!" alt="Typing SVG" /></a></p>
 
@@ -330,8 +331,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <div align = "center">
     <img src = "https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/contribution-grid-snake.svg" width = 100%/>
   </div>
-  
-  <hr>
+</details>
 
 <details>
 <summary><h2 align="left">Activity Graph</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Graph.gif" width="50"></summary>
@@ -341,7 +341,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 </details>
   
 <details>   
-<summary><h2 align="left">License</h2><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjaXI3Z3BwZG9kYWd0MTc0cjVmd2IwZHl5ZTFnOWVqd2hqajJ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A7LF3J4uMJQ4r8ApLg/200.webp" width="50"></summary>
+<summary><h2 align="left">Maintainer</h2><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjaXI3Z3BwZG9kYWd0MTc0cjVmd2IwZHl5ZTFnOWVqd2hqajJ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A7LF3J4uMJQ4r8ApLg/200.webp" width="50"></summary>
   
 <div align="center">
 
@@ -361,7 +361,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 
 <details>
 
-<summary><h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> </h2></summary>
+<summary><h2> My Working Sample of the GitHub <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> </h2></summary>
 
 <!--START_SECTION:waka-->
 
