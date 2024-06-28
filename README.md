@@ -304,14 +304,8 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <details>
   
 <summary><h2 align="left">Support</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Support.gif" width="50"></summary>
-<p>
-  <a href="https://www.buymeacoffee.com/venkykumar0006">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-  <a href="https://ko-fi.com/venkykumar0006">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
-  </a>
-</p>
+
+<a href="https://www.buymeacoffee.com/venkykumar0006"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/venkykumar0006"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"></a>
 <br>
 
 ![trophy](https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43)
