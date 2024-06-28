@@ -12,11 +12,62 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 - 🤔 I’m seeking help with Front-end/Back-end & AL/ML resources. 
 - 📫 How to reach me: ✉️ <a href="mailto:venkykumar06@gmail.com">Venky Kumar</a>
 
-<h3 align="left">Languages & Tools I'm Works on 100+:</h3>
 
+<summary><h1 align="left">Languages & Tools:</h1><img src = "https://cdn.dribbble.com/users/599148/screenshots/3487409/media/da3500eebe57acd7e6d5dc0fe1db8f2f.gif" width="60"> </h2></summary>                                                                                                                                                                                     
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
+	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+</div>
+
+<br>
 <div class="mx-auto mb-6 flex max-w-4xl flex-wrap items-center justify-center"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/htmx-%2302569B.svg?style=for-the-badge&amp;logo=htmx&amp;logoColor=white" alt="HTMX" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:100ms"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:200ms"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:300ms"><img src="https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=%23F7DF1E" alt="Tailwind CSS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:400ms"><img src="https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap CSS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:500ms"><img src="https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&amp;logo=rescript&amp;logoColor=e34c4c" alt="ReScript" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:600ms"><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&amp;logo=CoffeeScript&amp;logoColor=white" alt="CoffeeScript" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:700ms"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1Ee" alt="JavaScript" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:800ms"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:900ms"><img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1000ms"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="NextJS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1100ms"><img src="https://img.shields.io/badge/three.js-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" alt="ThreeJS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1200ms"><img src="https://img.shields.io/badge/vite-%239B30FF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=yellow" alt="Vite" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1300ms"><img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1400ms"><img src="https://img.shields.io/badge/Astro-5A67D8?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1500ms"><img src="https://img.shields.io/badge/Angular-%23E32F26?style=for-the-badge&amp;logo=Angular&amp;logoColor=white" alt="Angular" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1600ms"><img src="https://img.shields.io/badge/ember.js-1C1E24?style=for-the-badge&amp;logo=ember.js&amp;logoColor=#D04A37" alt="Ember.js" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1700ms"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1800ms"><img src="https://img.shields.io/badge/Svelte-%23E32F26?style=for-the-badge&amp;logo=Svelte&amp;logoColor=white" alt="Svelte" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:1900ms"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2000ms"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2100ms"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2200ms"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="NGINX" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2300ms"><img src="https://img.shields.io/badge/-apollo-311C87?style=for-the-badge&amp;logo=apollo-graphql" alt="Apollo" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2400ms"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2500ms"><img src="https://img.shields.io/badge/electron.js-191970?style=for-the-badge&amp;logo=Electron&amp;logoColor=white" alt="Electron.js" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2600ms"><img src="https://img.shields.io/badge/jest-%23E34F26.svg?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2700ms"><img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&amp;logo=jasmine&amp;logoColor=white" alt="Jasmine" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2800ms"><img src="https://img.shields.io/badge/Vitest-%23646CFF.svg?style=for-the-badge&amp;logo=Vitest&amp;logoColor=white" alt="Vitest" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:2900ms"><img src="https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&amp;logo=c&amp;logoColor=%23F7DF1E" alt="C" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3000ms"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3100ms"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3200ms"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".NET" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3300ms"><img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&amp;logo=blazor&amp;logoColor=white" alt="Blazor" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3400ms"><img src="https://img.shields.io/badge/D-CC342D?style=for-the-badge&amp;logo=d&amp;logoColor=white" alt="D" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3500ms"><img src="https://img.shields.io/badge/F%23-378BBA.svg?style=for-the-badge&amp;logo=fsharp&amp;logoColor=fff" alt="F#" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3600ms"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3700ms"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3800ms"><img src="https://img.shields.io/badge/scala-%23E32F26.svg?style=for-the-badge&amp;logo=scala&amp;logoColor=white" alt="Scala" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:3900ms"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&amp;logo=apachegroovy&amp;logoColor=white" alt="Groovy" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4000ms"><img src="https://img.shields.io/badge/Gamemaker-%50C878.svg?style=for-the-badge&amp;logo=gamemaker&amp;logoColor=white" alt="Gamemaker" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4100ms"><img src="https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&amp;logo=python&amp;logoColor=yellow" alt="Python" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4200ms"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4300ms"><img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4400ms"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4500ms"><img src="https://img.shields.io/badge/Vyper-%23363636.svg?style=for-the-badge&amp;logo=vyper&amp;logoColor=white" alt="Vyper" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4600ms"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4700ms"><img src="https://img.shields.io/badge/ruby-%23E32F26.svg?style=for-the-badge&amp;logo=ruby&amp;logoColor=white" alt="Ruby" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4800ms"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Ruby on Rails" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:4900ms"><img src="https://img.shields.io/badge/elixir-%239B30FF.svg?style=for-the-badge&amp;logo=elixir&amp;logoColor=white" alt="Elixir" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5000ms"><img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&amp;logo=crystal&amp;logoColor=white" alt="Crystal" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5100ms"><img src="https://img.shields.io/badge/php-%23007BCC.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5200ms"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5300ms"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5400ms"><img src="https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5500ms"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white" alt="Flutter" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5600ms"><img src="https://img.shields.io/badge/swift-%23E32F26.svg?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5700ms"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5800ms"><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&amp;logo=julia&amp;logoColor=white" alt="Julia" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:5900ms"><img src="https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6000ms"><img src="https://img.shields.io/badge/haskell-%239B30FF.svg?style=for-the-badge&amp;logo=haskell&amp;logoColor=white" alt="Haskell" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6100ms"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&amp;logo=lua&amp;logoColor=white" alt="Lua" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6200ms"><img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&amp;logo=Clojure&amp;logoColor=Clojure" alt="Clojure" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6300ms"><img src="https://img.shields.io/badge/ocaml-%23ED8B00.svg?style=for-the-badge&amp;logo=ocaml&amp;logoColor=white" alt="OCaml" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6400ms"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6500ms"><img src="https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&amp;logo=lisp&amp;logoColor=red" alt="Lisp" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6600ms"><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&amp;logo=fortran&amp;logoColor=white" alt="Fortran" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6700ms"><img src="https://img.shields.io/badge/pascal-%23007ACC.svg?style=for-the-badge&amp;logo=pascal&amp;logoColor=yellow" alt="Pascal" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6800ms"><img src="https://img.shields.io/badge/COBOL-%232C2D72.svg?style=for-the-badge&amp;logo=COBOL&amp;logoColor=white" alt="COBOL" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:6900ms"><img src="https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&amp;logo=erlang&amp;logoColor=a90533" alt="Erlang" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7000ms"><img src="https://img.shields.io/badge/smalltalk-%231572B6.svg?style=for-the-badge&amp;logo=smalltalk&amp;logoColor=%23F7DF1E" alt="Smalltalk" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7100ms"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&amp;logo=zig&amp;logoColor=white" alt="Zig" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7200ms"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7300ms"><img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&amp;logo=nim&amp;logoColor=white" alt="Nim" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7400ms"><img src="https://img.shields.io/badge/MATLAB-%23ED8B00?style=for-the-badge&amp;logo=MATLAB&amp;logoColor=fcd683" alt="MATLAB" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7500ms"><img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&amp;logo=octave&amp;logoColor=fcd683" alt="Octave" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7600ms"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&amp;logo=Scratch&amp;logoColor=white" alt="Scratch" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7700ms"><img src="https://img.shields.io/badge/sql-%23FF4500.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQL" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7800ms"><img src="https://img.shields.io/badge/tla+-%239B30FF.svg?style=for-the-badge&amp;logo=tla+&amp;logoColor=white" alt="TLA+" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:7900ms"><img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8000ms"><img src="https://img.shields.io/badge/perl-%230D467A.svg?style=for-the-badge&amp;logo=perl&amp;logoColor=white" alt="Perl" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8100ms"><img src="https://img.shields.io/badge/Mojo-FF7139?style=for-the-badge&amp;logo=Mojo&amp;logoColor=white" alt="Mojo" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8200ms"><img src="https://img.shields.io/badge/asm-%23121011.svg?style=for-the-badge&amp;logo=asm&amp;logoColor=white" alt="ASM" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8300ms"><img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&amp;logo=NixOS&amp;logoColor=white" alt="Nix" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8400ms"><img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&amp;logo=json&amp;logoColor=blue" alt="JSON" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8500ms"><img src="https://img.shields.io/badge/yaml-%23000000.svg?style=for-the-badge&amp;logo=yaml&amp;logoColor=yellow" alt="YAML" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8600ms"><img src="https://img.shields.io/badge/toml-%23000000.svg?style=for-the-badge&amp;logo=toml&amp;logoColor=white" alt="TOML" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8700ms"><img src="https://img.shields.io/badge/xml-%23000000.svg?style=for-the-badge&amp;logo=xml&amp;logoColor=white" alt="XML" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8800ms"><img src="https://img.shields.io/badge/csv-%23239120.svg?style=for-the-badge&amp;logo=csv&amp;logoColor=white" alt="CSV" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:8900ms"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:9000ms"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:9100ms"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:9200ms"><img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:9300ms"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MiUi" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:9300ms"><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="FireBase" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="DependaBot" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" alt="Gemini" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="AdobeInDesign" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="AdobePhotoshop" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="AdobePremierePro" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="AdobeLightroom" class="mb-1 mr-1 animate-wave-scale" style="animation-delay:0ms;"></div>
 
-<h3 align="left">My Portfolio Site:</h3>
+<details>
+  
+<summary><h1 align="left">My Portfolio Site:</h1><img src = "https://storage.googleapis.com/creatorspace-public/users%2Fclp8mlxw3001gm801ne4dp93n%2FfFGfTpBpBow0tvBu-Port.gif" width="70"> </h2></summary>
 
 <a href="https://www.facebook.com/venkykumar.5602">
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=avif&w=512" alt="Facebook" height="40">
@@ -247,9 +298,12 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   <img src="https://uploads-ssl.webflow.com/5b0c471ddb589cf22d4477a4/5cd716028463a5a1d1b1e73d_unsplash-app-icon-2.png" alt="unsplash" height="40">
 </a>
 
-<hr>
+</details>
 
-<h1 align="left">Support:</h1>
+<hr>
+<details>
+  
+<summary><h2 align="left">Support:</h2><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RhYjdpNzhyeGJpYm5zaXJsa2hxd2tjaWluYnQweHlwd2FnOHo0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s7MUsNxdmN6dE5edpE/giphy.webp" width="50"></summary>
 <p>
   <a href="https://www.buymeacoffee.com/venkykumar0006">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
@@ -258,14 +312,14 @@ I'm a creative and responsible professional with excellent troubleshooting skill
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
-<br><br>
-<p></p>
+<br>
 
 ![trophy](https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43)
 
 
  <a href="https://github.com/BoddepallyVenkatesh06"><img src="https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/overview.svg" width="280" height="99%"></a><img src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" width="280" height="150%">&nbsp;<a href="https://leetcode-white-venky-kumar.netlify.app/"><img src="https://ik.imagekit.io/rolex/LeetCode_Profile?updatedAt=1718479207970" width="260" height="155"></a>
 
+</details>
 
 <p align="center"><a href="https://github.com/BoddepallyVenkatesh06"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F70E0E&random=false&width=435&lines=Welcome+to+My+Leetcode+Profile!" alt="Typing SVG" /></a></p>
 
@@ -277,10 +331,16 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   
   <hr>
 
-![Venky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
- ## License
- 
+<details>
+<summary><h2 align="left">Activity Graph</h2><img src = "https://cdn.dribbble.com/users/870415/screenshots/2746862/media/2230758d675df6398c0be38e9ed0bba5.gif" width="50"></summary>
+<div align = "center">
+    <img src = "https://github-readme-activity-graph.vercel.app/graph?username=BoddepallyVenkatesh06&bg_color=ffcfe9&color=4c569e&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
+  </div>
+</details>
+  
+<details>   
+<summary><h2 align="left">License</h2><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjaXI3Z3BwZG9kYWd0MTc0cjVmd2IwZHl5ZTFnOWVqd2hqajJ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A7LF3J4uMJQ4r8ApLg/200.webp" width="50"></summary>
+  
 <div align="center">
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
@@ -295,15 +355,17 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 ![Chat](https://img.shields.io/badge/Chat%20any%20time-online-tomato%20?style=for-the-badge)
 
 </div>
+</details>
 <hr>
 
+<details>
 
-<h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
+<summary><h2> This is My Working Sample of GitHub on last 3rd Year to last recent week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> </h2></summary>
 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2021 - To: 01 May 2024
+From: 03 August 2021 - To: 01 July 2024
 
 HTML5/CSS        8 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
@@ -311,28 +373,37 @@ React,js         3 hrs 10 mins   ███████████████�
 Node.js          3 hrs 24 mins   █████████████▓░░░░░░░░░░░   60.20 %
 Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░   30.80 %
 ```
+</details>
 
 <!--END_SECTION:waka-->
 
-### Spotify Playing 🎧
+<details>
+<summary><h2 align="left">Spotify Playing</h2><img src = "https://media.tenor.com/S81VBgx8R_wAAAAi/musical-notes.gif" width="70"> </h2></summary>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+</details>
+
+<details>
+<summary><h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30"> </h2></summary>
 
 <img src="https://streak-stats.demolab.com/?user=BoddepallyVenkatesh06" width="400">&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoddepallyVenkatesh06&theme=flag_india" width="420" height="150">
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BoddepallyVenkatesh06&theme=default">&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoddepallyVenkatesh06&theme=default">
 
-<h2> My Latest Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+</details>
+
+<details>
+  
+<summary><h2> My Latest Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> </h2></summary>
 
 <!--START_SECTION:badges-->
 
 [![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
+[![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/150x200/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Fundamentals of Quantum Computing")
 [![Interact with Dashboards and Reports](https://images.credly.com/size/150x200/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png)](https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9 "Interact with Dashboards and Reports")
 [![LFC108: Cybersecurity Fundamentals](https://images.credly.com/size/150x200/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)]( https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863 "Cybersecurity Fundamentals")
-[![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/150x200/images/1719bbab-f97e-4160-9487-beaa0e0a28f5/Training_Badges_Master_osbestpractices.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Fundamentals of Quantum Computing")
 [![IBM Cloud Essentials](https://images.credly.com/size/150x200/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://ibm-cloud-essentials.netlify.app/)
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/150x200/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](https://enterprise-design-thinking-practition.netlify.app/)
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/150x200/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://enterprise-design-thinking-co-creator.netlify.app/)
@@ -340,35 +411,51 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 [![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/150x200/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](https://enterprise-design-sustainability.netlify.app/)
 [![Enterprise Design Thinking Leader](https://images.credly.com/size/150x200/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png)](https://enterprise-design-thinking-leader.netlify.app/)
 
+</details>
+
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:badges-->
 
-<h2> My Postman Badges <img src = "https://cdnl.iconscout.com/lottie/premium/thumb/star-badge-5634760-4707792.gif" width="50"> </h2>
+<details>
+  
+<summary><h2> My Postman Badges <img src = "https://cdnl.iconscout.com/lottie/premium/thumb/star-badge-5634760-4707792.gif" width="30"> </h2></summary>
 
 <img src = "https://media.badgr.com/uploads/badges/badge-XFiL6JXQQyWlWAV_Iklo4Q.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/942db531-0a0e-4435-b7d3-7ef5cd0cd939.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/badge-IgUsPlotSEK30hfC7zSUzA.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/1adacd02-2d29-432d-bcbb-830e5adbb726.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://media.badgr.com/uploads/badges/badge-6ie1-Fn_SQ-u3cPcrpVqHw.png" width="150" height="150">
 
+</details>
+
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:badges-->
 
-<h2> My IBM Professional Badges <img src = "https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/badge.gif" width="50"> </h2>
+<details>
+  
+<summary><h2> My IBM Professional Badges <img src = "https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/badge.gif" width="30"> </h2></summary>
 
 <img src = "https://ik.imagekit.io/rolex/Full%20Stack%20Software%20Developer%20Professional%20Certificate?updatedAt=1717957488506" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/IT%20Project%20Manager%20Professional%20Certificate?updatedAt=1717957488409" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/Professional_Certificate_-_IBM_Cybersecurity_Analyst?updatedAt=1717957488513" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/Professional_Certificate_-_AI_Engineering?updatedAt=1717957488357" width="150" height="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://ik.imagekit.io/rolex/Professional_Certificate_-_Data_Analyst?updatedAt=1717957488415" width="150" height="150">
 
+</details>
+
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:badges-->
 
-<h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="50"> </h2>
+<details>
+  
+<summary><h2> My Holopin Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1YzlhN3oyZ2d5OW5ubXhrbHJvampkNmVsYm8wOHVpMzdiYXJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DmQqJ8qltqabv75q0f/giphy.webp" width="30"> </h2></summary>
 
 <a href="https://holopin-io-venky-kumar-0006.netlify.app/#" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/rolex/HoloPin.png?updatedAt=1717700015599"/></a>
 
+</details>
+
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:badges-->
 
-<h2> My Microsoft Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="50"> </h2>
+<details>
+  
+<summary><h2> My Microsoft Badges  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6Z2RvOThrbmR5Mm5oY3NsNWRhZGhscTF0dW4wZjl0c2dzamZvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82F29SqS43dBq4khi/giphy.gif" width="30"> </h2></summary>
 
 <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vkyl6nem" target="_blank" rel="noreferrer">
     <img src="https://learn.microsoft.com/en-gb/training/achievements/describe-monitoring-tools-azure.svg" alt="microsoft" width="150" height="200"/>
@@ -409,6 +496,8 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
   <a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/achievements/vbkshs4m" target="_blank" rel="noreferrer">
     <img src="https://learn.microsoft.com/en-gb/training/achievements/use-tools-optimize-power-bi-performance.svg" alt="microsoft-10" width="150" height="200"/>
   </a>
+
+  </details>
   
 <!--END_SECTION:badges-->
 <!---
