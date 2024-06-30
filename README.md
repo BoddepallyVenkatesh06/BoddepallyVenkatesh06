@@ -95,7 +95,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e98ed313-79fd-4707-b17f-277af051c9e0" alt="Backbone.js" title="Backbone.js"/></code>
 <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50c63e54-074f-494b-b786-01eb7870c927" alt="Vuetify.js" title="Vuetify.js"/></code>
 <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/></code>
-<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoN9B5zvpltESluTf8zk6jjBbT-zq-yZdd9cjt-Zs87c4PTMAka-lm04a6Zy9bt-zRs_0&usqp=CAU" alt="Astro" title="Astro"/></code>
+<code><img width="50" src="https://ik.imagekit.io/rolex/Astro?updatedAt=1719761642850" alt="Astro" title="Astro"/></code>
 <code><img width="50" src="https://docs.nodegui.org/img/logo-circle.png" alt="NodeGui" title="NodeGui"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turborepo" title="Turborepo"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
@@ -111,7 +111,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
-<code><img width="40" src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" alt="Flask" title="Flask"/></code>
+<code><img width="47" src="https://ik.imagekit.io/rolex/Flask?updatedAt=1719761642488" alt="Flask" title="Flask"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
 <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
