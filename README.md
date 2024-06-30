@@ -153,235 +153,67 @@ I'm a creative and responsible professional with excellent troubleshooting skill
   
 <summary><h2 align="left">My Portfolio Site</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Portfolio.gif" width="70"> </h2></summary>
 
-<a href="https://www.facebook.com/venkykumar.5602">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=avif&w=512" alt="Facebook" height="40">
-</a>
+<div align="center">
+<code><a href="https://www.facebook.com/venkykumar.5602"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=avif&w=512" alt="Facebook" title="Facebook"/></a></code>
+<code><a href="https://www.instagram.com/venkykumar0607/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=512" alt="Instagram" title="Instagram"/></a></code>
+<code><a href="https://www.linkedin.com/in/venkykumar0006/"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=avif&w=512" alt="LinkedIn" title="LinkedIn"/></a></code>
+<code><a href="https://twitter.com/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/twitter-2752046-2284863.png?f=avif&w=512" alt="Twitter" title="Twitter"/></a></code>
+<code><a href="https://t.me/VenkyKumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=webp&w=512" alt="Telegram" title="Telegram"/></a></code>
+<code><a href="https://music.youtube.com/channel/UCW7l4zOlEtssyTRUD5E85HA"><img width="50" src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="YouTube Music" title="YouTube Music"/></a></code>
+<code><a href="https://codepen.io/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-codepen-9132422-7417313.png?f=avif&w=512" alt="CodePen" title="CodePen"/></a></code>
+<code><a href="https://stackoverflow.com/users/22493780/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512" alt="Stack Overflow" title="Stack Overflow"/></a></code>
+<code><a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-26-722716.png?f=webp&w=512" alt="Microsoft" title="Microsoft"/></a></code>
+<code><a href="https://www.cloudskillsboost.google/public_profiles/d3e14ed2-9972-4067-b5e7-fe4dac25237a"><img width="50" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="Google Cloud" title="Google Cloud"/></a></code>
+<code><a href="https://developers.google.com/profile/u/venkykumar0006"><img width="50" src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developers" title="Google Developers"/></a></code>
+<code><a href="https://devfolio.co/@venkykumar0006"><img width="50" src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="Devfolio" title="Devfolio"/></a></code>
+<code><a href="https://ik.imagekit.io/rolex/Grammarly?updatedAt=1718050307717"><img width="50" src="https://seeklogo.com/images/G/grammarly-logo-8CE42850DB-seeklogo.com.png" alt="Grammarly" title="Grammarly"/></a></code>
+<code><a href="https://peerlist.io/venkykumar0006"><img width="50" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lgnxtqohdbatl4eoek3f" alt="Peerlist" title="Peerlist"/></a></code>
+<code><a href="https://codesandbox.io/u/venkykumar06"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-code-sandbox-3627430-3028741.png?f=webp&w=512" alt="CodeSandbox" title="CodeSandbox"/></a></code>
+<code><a href="https://www.coursera.org/learner/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-coursera-3628707-3029932.png?f=webp&w=512" alt="Coursera" title="Coursera"/></a></code>
+<code><a href="https://www.crio.do/learn/portfolio/venkykumar06/"><img width="50" src="https://avatars.githubusercontent.com/u/51743602?v=4" alt="Crio.do" title="Crio.do"/></a></code>
+<code><a href="https://www.credly.com/users/boddepally-venkatesh/badges"><img width="50" src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" title="Credly"/></a></code>
+<code><a href="https://credly.netlify.app/"><img width="50" src="https://theme.zdassets.com/theme_assets/2382499/cbf082693b966d5c5e6e30fa455853afb22f0079.ico" alt="Credly" title="Credly"/></a></code>
+<code><a href="https://replit.com/@VenkyKumar1"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/440px-New_Replit_Logo.svg.png" alt="Replit" title="Replit"/></a></code>
+<code><a href="https://www.behance.net/venkykumar2"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/behance-2752234-2285051.png?f=webp&w=512" alt="Behance" title="Behance"/></a></code>
+<code><a href="https://dev.to/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/dev-2752213-2285030.png?f=webp&w=512" alt="Dev" title="Dev"/></a></code>
+<code><a href="https://www.quora.com/profile/Venky-Kumar-22"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-quora-2296026-1911985.png?f=webp&w=512" alt="Quora" title="Quora"/></a></code>
+<code><a href="https://in.pinterest.com/venkykumar06/"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/pinterest-2752099-2284916.png?f=webp&w=512" alt="Pinterest" title="Pinterest"/></a></code>
+<code><a href="https://linktr.ee/venkykumar0006"><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcJlMeNqxnp7OJXhogY4RHQoacZ7Bi25abQ&s" alt="Linktree" title="Linktree"/></a></code>
+<code><a href="https://medium.com/@venkykumar06"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/medium-2752124-2284941.png?f=webp&w=512" alt="Medium" title="Medium"/></a></code>
+<code><a href="https://dribbble.com/Venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-dribbble-180-721947.png?f=webp&w=512" alt="Dribbble" title="Dribbble"/></a></code>
+<code><a href="https://www.futurelearn.com/profiles/12903701"><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRngR9gTmBpo77C0-lcyYWsErO4bkKfLermcH0PzFngN3y8C7VKPJDy2da88oPUyX8JV2g&usqp=CAU" alt="FutureLearn" title="FutureLearn"/></a></code>
+<code><a href="https://www.frontendmentor.io/profile/BoddepallyVenkatesh06"><img width="50" src="https://avatars.githubusercontent.com/u/47932038?s=200&v=4" alt="FrontendMentor" title="FrontendMentor"/></code>
+<code><a href="https://jovian.com/venkykumar06"><img width="50" src="https://yt3.googleusercontent.com/ytc/APkrFKa4qyDzKWz3x1T_ToSKPXLdDj6NHy5SznS1donUkg=s176-c-k-c0x00ffffff-no-rj" alt="Jovian" title="Jovian"/></code>
+<code><a href="https://www.salesforce.com/trailblazer/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-salesforce-282298.png?f=webp&w=512" alt="SalesForce" title="SalesForce"/></code>
+<code><a href="https://www.hackerrank.com/venkykumar06"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=512" alt="Hackerrank" title="Hackerrank"/></code>
+<code><a href="https://www.hackerearth.com/@venky108"><img width="50" src="https://cdn-icons-png.freepik.com/512/5379/5379239.png" alt="Hackerearth" title="Hackerearth"/></code>
+<code><a href="https://profiles.topcoder.com/venkykumar0006"><img width="50" src="https://www.svgrepo.com/show/353383/airtable.svg" alt="TopCoder" title="TopCoder"/></code>
+<code><a href="https://codebyte-venkykumar0006.netlify.app/"><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsGZ6G_dUXxPoy4DFFDdDRVDNr3_9pPJ4mw&s" alt="CodeByte" title="CodeByte"/></code>
+<code><a href="https://codechef-venkykumar0006.netlify.app/"><img width="50" src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef" title="CodeChef"/></code>
+<code><a href="https://leetcode-venky-kumar.netlify.app/"><img width="50" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="LeetCode" title="LeetCode"/></code>
+<code><a href="https://codeforces-venkykumar0006.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=512" alt="CodeForces" title="CodeForces"/></code>
+<code><a href="https://atcoder-venky-kumar.netlify.app/"><img width="50" src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" title="AtCoder"/></code>
+<code><a href="https://vimeo.com/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-vimeo-167-498423.png?f=webp&w=512" alt="Vimeo" title="Vimeo"/></code>
+<code><a href="https://fueler.io/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/fullerene-9753865-7939819.png?f=webp&w=512" alt="Fueler" title="Fueler"/></code>
+<code><a href="https://bento.me/venkykumar0006"><img width="50" src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" alt="Bento" title="Bento"/></code>
+<code><a href="https://glitch.com/@venkykumar06"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-2752180-2284997.png?f=webp&w=512" alt="Glitch" title="Glitch"/></code>
+<code><a href="https://www.freecodecamp.org/Boddepally_Venkatesh"><img width="50" src="https://shayanahmedkhan.gallerycdn.vsassets.io/extensions/shayanahmedkhan/freecodecamp-color-theme/1.1.1/1691739348454/Microsoft.VisualStudio.Services.Icons.Default" alt="FreeCodeCamp" title="FreeCodeCamp"/></code>
+<code><a href="https://venky-kumar-portfoliosite.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889541-1597601.png?f=webp&w=512" alt="Portfolio" title="Portfolio"/></code>
+<code><a href="https://portfolio-venky-kumar.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889540-1597600.png?f=webp&w=512" alt="Portfolio-2" title="Portfolio-2"/></code>
+<code><a href="https://venky-resume.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-2790235-2314085.png?f=webp&w=512" alt="Resume" title="Resume"/></code>
+<code><a href="https://newsapp-venky-kumar.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-news-364-461600.png?f=webp&w=512" alt="NewsApp" title="NewsApp"/></code>
+<code><a href="https://venky-kumar-blogsite.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-blog-8-100136.png?f=webp&w=512" alt="BlogSite" title="BlogSite"/></code>
+<code><a href="https://www.figma.com/@venkykumar"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512" alt="Figma" title="Figma"/></code>
+<code><a href="https://cssdeck.com/user/venkykumar6"><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKW15rvDRWZbxNZXUNpENt1kAp3-f4IkFHSVM-ICLSpXCLTx2UmoIxHEjsa7uJ11n0-YA&usqp=CAU" alt="CSSDeck" title="CSSDeck"/></code>
+<code><a href="https://www.freepik.com/author/freepik"><img width="50" src="https://media.licdn.com/dms/image/D4D0BAQERU7ZcSiM4WA/company-logo_200_200/0/1694513045769/freepik_company_logo?e=2147483647&v=beta&t=lgEXWJI-zhDeZd5MjHFreAL7EkDKZ8r_mpF_rCWAHKY" alt="Freepik" title="Freepik"/></code>
+<code><a href="https://www.pexels.com/@venky-kumar-1302110314/"><img width="50" src="https://media.licdn.com/dms/image/D4E0BAQESr04JpLm5dw/company-logo_200_200/0/1705511794393/pexels_logo?e=2147483647&v=beta&t=K0Kalg0YWCDRJVDicEOUyZFAGbX-aBy9fTiWQ-fP8eo" alt="Pexels" title="Pexels"/></code>
+<code><a href="https://www.playbook.com/profile/2WByHbwe665yY1hiAAXYBbDG"><img width="50" src="https://media.licdn.com/dms/image/C560BAQGggO3on4xk-A/company-logo_200_200/0/1630670724161/playbook_hq_logo?e=2147483647&v=beta&t=YfCHdrCAXvwguGFabUXgw1ZkDvjsMxgbHqgUtTQ5psQ" alt="PlayBook" title="PlayBook"/></code>
+<code><a href="https://plnkr.co/users/venkykumar0006/plunks"><img width="50" src="https://pbs.twimg.com/profile_images/514487290521870336/fmAar7M9_400x400.png" alt="Plunker" title="Plunker"/></code>
+<code><a href="https://www.shutterstock.com/g/venkykumar0006/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-shutterstock-2296021-1911980.png?f=webp&w=512" alt="ShutterStock" title="ShutterStock"/></code>
+<code><a href="https://unsplash.com/@venkykumar0006/"><img width="50" src="https://uploads-ssl.webflow.com/5b0c471ddb589cf22d4477a4/5cd716028463a5a1d1b1e73d_unsplash-app-icon-2.png" alt="Unsplash" title="Unsplash"/></code>
 
-<a href="https://www.instagram.com/venkykumar0607/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=512" alt="Instagram" height="40">
-</a>
-
-<a href="https://www.linkedin.com/in/venkykumar0006/">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=avif&w=512" alt="LinkedIn" height="40">
-</a>
-
-<a href="https://twitter.com/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/twitter-2752046-2284863.png?f=avif&w=512" alt="Twitter" height="40">
-</a>
-
-<a href="https://t.me/VenkyKumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=webp&w=512" alt="telegram" height="40">
-</a>
-
-<a href="https://music.youtube.com/channel/UCW7l4zOlEtssyTRUD5E85HA">
-  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Youtub-Music" height="40">
-</a>
-
-<a href="https://codepen.io/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-codepen-9132422-7417313.png?f=avif&w=512" alt="CodePen" height="40">
-</a>
-
-<a href="https://stackoverflow.com/users/22493780/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=avif&w=512" alt="Stack Overflow" height="40">
-</a>
-
-<a href="https://learn.microsoft.com/en-gb/users/venkykumar0006/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-26-722716.png?f=webp&w=512" alt="microsoft" height="40">
-</a>
-
-<a href="https://www.cloudskillsboost.google/public_profiles/d3e14ed2-9972-4067-b5e7-fe4dac25237a">
-  <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="googlecloud" height="40">
-</a>
-
-<a href="https://developers.google.com/profile/u/venkykumar0006">
-  <img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="googledeveloper" height="40">
-</a>
-
-<a href="https://devfolio.co/@venkykumar0006">
-  <img src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="Devfolio" height="40">
-</a>
-
-<a href="https://ik.imagekit.io/rolex/Grammarly?updatedAt=1718050307717">
-  <img src="https://seeklogo.com/images/G/grammarly-logo-8CE42850DB-seeklogo.com.png" alt="Grammarly" height="40">
-</a>
-
-
-<a href="https://peerlist.io/venkykumar0006">
-  <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lgnxtqohdbatl4eoek3f" alt="peerlist" height="40">
-</a>
-
-<a href="https://codesandbox.io/u/venkykumar06">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-sandbox-3627430-3028741.png?f=webp&w=512" alt="codesandbox" height="40">
-</a>
-
-<a href="https://www.coursera.org/learner/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-coursera-3628707-3029932.png?f=webp&w=512" alt="coursera" height="40">
-</a>
-
-<a href="https://www.crio.do/learn/portfolio/venkykumar06/">
-  <img src="https://avatars.githubusercontent.com/u/51743602?v=4" alt="criodo" height="40">
-</a>
-
-<a href="https://www.credly.com/users/boddepally-venkatesh/badges">
-  <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="credly" height="40">
-</a>
-
-<a href="https://credly.netlify.app/">
-  <img src="https://theme.zdassets.com/theme_assets/2382499/cbf082693b966d5c5e6e30fa455853afb22f0079.ico" alt="credly" height="40">
-</a>
-
-<a href="https://replit.com/@VenkyKumar1">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/440px-New_Replit_Logo.svg.png" alt="replit" height="40">
-</a>
-
-<a href="https://www.behance.net/venkykumar2">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/behance-2752234-2285051.png?f=webp&w=512" alt="behance" height="40">
-</a>
-
-<a href="https://dev.to/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/dev-2752213-2285030.png?f=webp&w=512" alt="dev" height="40">
-</a>
-
-<a href="https://www.quora.com/profile/Venky-Kumar-22">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-quora-2296026-1911985.png?f=webp&w=512" alt="quora" height="40">
-</a>
-
-<a href="https://in.pinterest.com/venkykumar06/">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/pinterest-2752099-2284916.png?f=webp&w=512" alt="pinterest" height="40">
-</a>
-
-<a href="https://linktr.ee/venkykumar0006">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcJlMeNqxnp7OJXhogY4RHQoacZ7Bi25abQ&s" alt="linktree" height="40">
-</a>
-
-<a href="https://medium.com/@venkykumar06">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/medium-2752124-2284941.png?f=webp&w=512" alt="medium" height="40">
-</a>
-
-<a href="https://dribbble.com/Venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-dribbble-180-721947.png?f=webp&w=512" alt="dribbble" height="40">
-</a>
-
-<a href="https://www.futurelearn.com/profiles/12903701">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRngR9gTmBpo77C0-lcyYWsErO4bkKfLermcH0PzFngN3y8C7VKPJDy2da88oPUyX8JV2g&usqp=CAU" alt="futurelearn" height="40">
-</a>
-
-<a href="https://www.frontendmentor.io/profile/BoddepallyVenkatesh06">
-  <img src="https://avatars.githubusercontent.com/u/47932038?s=200&v=4" alt="frontendmentor" height="40">
-</a>
-
-<a href="https://jovian.com/venkykumar06">
-  <img src="https://yt3.googleusercontent.com/ytc/APkrFKa4qyDzKWz3x1T_ToSKPXLdDj6NHy5SznS1donUkg=s176-c-k-c0x00ffffff-no-rj" alt="jovian" height="40">
-</a>
-
-<a href="https://www.salesforce.com/trailblazer/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-salesforce-282298.png?f=webp&w=512" alt="salesforce" height="40">
-</a>
-
-<a href="https://www.hackerrank.com/venkykumar06">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=512" alt="hackerrank" height="40">
-</a>
-
-<a href="https://www.hackerearth.com/@venky108">
-  <img src="https://cdn-icons-png.freepik.com/512/5379/5379239.png" alt="hackerearth" height="40">
-</a>
-
-<a href="https://profiles.topcoder.com/venkykumar0006">
-  <img src="https://www.svgrepo.com/show/353383/airtable.svg" alt="topcoder" height="40">
-</a>
-
-<a href="https://codebyte-venkykumar0006.netlify.app/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsGZ6G_dUXxPoy4DFFDdDRVDNr3_9pPJ4mw&s" alt="Codebyte" height="40">
-</a>
-
-<a href="https://codechef-venkykumar0006.netlify.app/">
-  <img src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="40">
-</a>
-
-<a href="https://leetcode-venky-kumar.netlify.app/">
-  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="leetcode" height="40">
-</a>
-
-<a href="https://codeforces-venkykumar0006.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=512" alt="codeforces" height="40">
-</a>
-
-<a href="https://atcoder-venky-kumar.netlify.app/">
-  <img src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="40">
-</a>
-
-<a href="https://vimeo.com/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-vimeo-167-498423.png?f=webp&w=512" alt="vimeo" height="40">
-</a>
-
-<a href="https://fueler.io/venkykumar0006">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/fullerene-9753865-7939819.png?f=webp&w=512" alt="fueler" height="40">
-</a>
-
-<a href="https://bento.me/venkykumar0006">
-  <img src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" alt="bento" height="40">
-</a>
-
-<a href="https://glitch.com/@venkykumar06">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-2752180-2284997.png?f=webp&w=512" alt="glitch" height="40">
-</a>
-
-<a href="https://www.freecodecamp.org/Boddepally_Venkatesh">
-  <img src="https://shayanahmedkhan.gallerycdn.vsassets.io/extensions/shayanahmedkhan/freecodecamp-color-theme/1.1.1/1691739348454/Microsoft.VisualStudio.Services.Icons.Default" alt="freecodecamp" height="40">
-</a>
-
-<a href="https://venky-kumar-portfoliosite.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889541-1597601.png?f=webp&w=512" alt="portfolio" height="40">
-</a>
-
-<a href="https://portfolio-venky-kumar.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889540-1597600.png?f=webp&w=512" alt="portfolio-2" height="40">
-</a>
-
-<a href="https://venky-resume.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-2790235-2314085.png?f=webp&w=512" alt="resume" height="40">
-</a>
-
-<a href="https://newsapp-venky-kumar.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-news-364-461600.png?f=webp&w=512" alt="newsapp" height="40">
-</a>
-
-<a href="https://venky-kumar-blogsite.netlify.app/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-blog-8-100136.png?f=webp&w=512" alt="blogsite" height="40">
-</a>
-
-<a href="https://www.figma.com/@venkykumar">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512" alt="figma" height="40">
-</a>
-
-<a href="https://cssdeck.com/user/venkykumar6">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKW15rvDRWZbxNZXUNpENt1kAp3-f4IkFHSVM-ICLSpXCLTx2UmoIxHEjsa7uJ11n0-YA&usqp=CAU" alt="cssdeck" height="35">
-</a>
-
-<a href="https://www.freepik.com/author/freepik">
-  <img src="https://media.licdn.com/dms/image/D4D0BAQERU7ZcSiM4WA/company-logo_200_200/0/1694513045769/freepik_company_logo?e=2147483647&v=beta&t=lgEXWJI-zhDeZd5MjHFreAL7EkDKZ8r_mpF_rCWAHKY" alt="freepik" height="40">
-</a>
-
-<a href="https://www.pexels.com/@venky-kumar-1302110314/">
-  <img src="https://media.licdn.com/dms/image/D4E0BAQESr04JpLm5dw/company-logo_200_200/0/1705511794393/pexels_logo?e=2147483647&v=beta&t=K0Kalg0YWCDRJVDicEOUyZFAGbX-aBy9fTiWQ-fP8eo" alt="pexels" height="40">
-</a>
-
-<a href="https://www.playbook.com/profile/2WByHbwe665yY1hiAAXYBbDG">
-  <img src="https://media.licdn.com/dms/image/C560BAQGggO3on4xk-A/company-logo_200_200/0/1630670724161/playbook_hq_logo?e=2147483647&v=beta&t=YfCHdrCAXvwguGFabUXgw1ZkDvjsMxgbHqgUtTQ5psQ" alt="playbook" height="40">
-</a>
-
-<a href="https://plnkr.co/users/venkykumar0006/plunks">
-  <img src="https://pbs.twimg.com/profile_images/514487290521870336/fmAar7M9_400x400.png" alt="plunker" height="40">
-</a>
-
-<a href="https://www.shutterstock.com/g/venkykumar0006/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-shutterstock-2296021-1911980.png?f=webp&w=512" alt="shutterstock" height="35">
-</a>
-
-<a href="https://unsplash.com/@venkykumar0006/">
-  <img src="https://uploads-ssl.webflow.com/5b0c471ddb589cf22d4477a4/5cd716028463a5a1d1b1e73d_unsplash-app-icon-2.png" alt="unsplash" height="40">
-</a>
-
+</div>
+	
 </details>
 
 <details>
