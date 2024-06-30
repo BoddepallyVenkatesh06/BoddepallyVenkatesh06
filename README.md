@@ -119,7 +119,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png" alt="Fortran" title="Fortran"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png" alt="Elixir" title="Elixir"/></code>
-<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0" alt="Solr" title="Solr"/></code>
+<code><img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_solr_logo_icon_168611.png" alt="Solr" title="Solr"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
@@ -144,7 +144,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 <code><img width="50" src="https://static-00.iconduck.com/assets.00/distributor-logo-elementary-icon-255x256-37e781ib.png" alt="elementary OS" title="elementary OS"/></code>
 <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
-<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
+<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
 </div>
 
 </details>
