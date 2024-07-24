@@ -144,7 +144,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><a href="https://glitch.com/@venkykumar06"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-2752180-2284997.png?f=webp&w=512" alt="Glitch" title="Glitch"/></a></code>
 <code><a href="https://www.freecodecamp.org/Boddepally_Venkatesh"><img width="50" src="https://shayanahmedkhan.gallerycdn.vsassets.io/extensions/shayanahmedkhan/freecodecamp-color-theme/1.1.1/1691739348454/Microsoft.VisualStudio.Services.Icons.Default" alt="FreeCodeCamp" title="FreeCodeCamp"/></a></code>
 <code><a href="https://venky-kumar-portfoliosite.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889541-1597601.png?f=webp&w=512" alt="Portfolio" title="Portfolio"/></a></code>
-<code><a href="https://venkykumar0006.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-vk-3771212-3147829.png?f=webp&w=512" alt="Portfolio-2" title="Portfolio-2"/></a></code>
+<code><a href="https://venkykumar0006.netlify.app/"><img width="47" src="https://cdn.iconscout.com/icon/free/png-512/free-vk-3771212-3147829.png?f=webp&w=512" alt="Portfolio-2" title="Portfolio-2"/></a></code>
 <code><a href="https://portfolio-venky-kumar.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889540-1597600.png?f=webp&w=512" alt="Portfolio-3" title="Portfolio-3"/></a></code>
 <code><a href="https://venky-resume.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-2790235-2314085.png?f=webp&w=512" alt="Resume" title="Resume"/></a></code>
 <code><a href="https://newsapp-venky-kumar.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-news-364-461600.png?f=webp&w=512" alt="NewsApp" title="NewsApp"/></a></code>
@@ -222,7 +222,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2021 - To: 01 July 2024
+From: August 2021 - To: July 2024
 
 HTML5/CSS        8 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
