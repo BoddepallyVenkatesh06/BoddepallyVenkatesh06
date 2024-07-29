@@ -139,7 +139,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><a href="https://codeforces-venkykumar0006.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=512" alt="CodeForces" title="CodeForces"/></a></code>
 <code><a href="https://atcoder-venky-kumar.netlify.app/"><img width="50" src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" title="AtCoder"/></a></code>
 <code><a href="https://vimeo.com/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-vimeo-167-498423.png?f=webp&w=512" alt="Vimeo" title="Vimeo"/></a></code>
-<code><a href="https://fueler.io/venkykumar0006"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/fullerene-9753865-7939819.png?f=webp&w=512" alt="Fueler" title="Fueler"/></a></code>
+<code><a href="https://fueler.io/venkykumar0006"><img width="50" src="https://cdn-images.imagevenue.com/da/8d/78/ME18U6WA_o.jpeg" alt="Fueler" title="Fueler"/></a></code>
 <code><a href="https://bento.me/venkykumar0006"><img width="50" src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" alt="Bento" title="Bento"/></a></code>
 <code><a href="https://glitch.com/@venkykumar06"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/glitch-2752180-2284997.png?f=webp&w=512" alt="Glitch" title="Glitch"/></a></code>
 <code><a href="https://www.freecodecamp.org/Boddepally_Venkatesh"><img width="50" src="https://shayanahmedkhan.gallerycdn.vsassets.io/extensions/shayanahmedkhan/freecodecamp-color-theme/1.1.1/1691739348454/Microsoft.VisualStudio.Services.Icons.Default" alt="FreeCodeCamp" title="FreeCodeCamp"/></a></code>
