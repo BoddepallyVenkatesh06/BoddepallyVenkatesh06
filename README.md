@@ -222,7 +222,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <!--START_SECTION:waka-->
 
 ```txt
-From: August 2021 - To: July 2024
+From: August 2021 - To: August 2024
 
 HTML5/CSS        8 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
