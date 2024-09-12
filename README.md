@@ -149,6 +149,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><a href="https://venky-resume.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-2790235-2314085.png?f=webp&w=512" alt="Resume" title="Resume"/></a></code>
 <code><a href="https://newsapp-venky-kumar.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-news-364-461600.png?f=webp&w=512" alt="NewsApp" title="NewsApp"/></a></code>
 <code><a href="https://venky-kumar-blogsite.netlify.app/"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-blog-8-100136.png?f=webp&w=512" alt="BlogSite" title="BlogSite"/></a></code>
+<code><a href="https://openprofile.dev/profile/venkykumar06"><img width="50" src="https://cdn-thumbs.imagevenue.com/95/5f/06/ME191X21_b.png" alt="LinuxFoundation" title="LinuxFoundation"/></a></code>
 <code><a href="https://www.figma.com/@venkykumar"><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512" alt="Figma" title="Figma"/></a></code>
 <code><a href="https://cssdeck-venkykumar6.netlify.app/"><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKW15rvDRWZbxNZXUNpENt1kAp3-f4IkFHSVM-ICLSpXCLTx2UmoIxHEjsa7uJ11n0-YA&usqp=CAU" alt="CSSDeck" title="CSSDeck"/></a></code>
 <code><a href="https://www.freepik.com/author/freepik"><img width="48" src="https://media.licdn.com/dms/image/D4D0BAQERU7ZcSiM4WA/company-logo_200_200/0/1694513045769/freepik_company_logo?e=2147483647&v=beta&t=lgEXWJI-zhDeZd5MjHFreAL7EkDKZ8r_mpF_rCWAHKY" alt="Freepik" title="Freepik"/></a></code>
@@ -257,11 +258,11 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 
 <!--START_SECTION:badges-->
 
-[![Python for Data Science](https://images.credly.com/size/150x200/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
+[![Python for Data Science](https://images.credly.com/size/150x150/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
 [![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/150x200/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Fundamentals of Quantum Computing")
 [![Interact with Dashboards and Reports](https://images.credly.com/size/150x200/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png)](https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9 "Interact with Dashboards and Reports")
 [![LFC108: Cybersecurity Fundamentals](https://images.credly.com/size/150x200/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)]( https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863 "Cybersecurity Fundamentals")
-[![IBM Cloud Essentials](https://images.credly.com/size/150x200/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://ibm-cloud-essentials.netlify.app/)
+[![IBM Cloud Essentials](https://images.credly.com/size/150x145/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://ibm-cloud-essentials.netlify.app/)
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/150x200/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](https://enterprise-design-thinking-practition.netlify.app/)
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/150x200/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://enterprise-design-thinking-co-creator.netlify.app/)
 [![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/150x200/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](https://enterprise-design-thinking-team-ai.netlify.app/)
