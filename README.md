@@ -258,16 +258,45 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 
 <!--START_SECTION:badges-->
 
-[![Python for Data Science](https://images.credly.com/size/150x150/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d "Python Fundamentals Specialization")
-[![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/150x200/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319 "Fundamentals of Quantum Computing")
-[![Interact with Dashboards and Reports](https://images.credly.com/size/150x200/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png)](https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9 "Interact with Dashboards and Reports")
-[![LFC108: Cybersecurity Fundamentals](https://images.credly.com/size/150x200/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)]( https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863 "Cybersecurity Fundamentals")
-[![IBM Cloud Essentials](https://images.credly.com/size/150x145/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://ibm-cloud-essentials.netlify.app/)
-[![Enterprise Design Thinking Practitioner](https://images.credly.com/size/150x200/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](https://enterprise-design-thinking-practition.netlify.app/)
-[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/150x200/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://enterprise-design-thinking-co-creator.netlify.app/)
-[![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/150x200/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](https://enterprise-design-thinking-team-ai.netlify.app/)
-[![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/150x200/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](https://enterprise-design-sustainability.netlify.app/)
-[![Enterprise Design Thinking Leader](https://images.credly.com/size/150x200/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png)](https://enterprise-design-thinking-leader.netlify.app/)
+<a href="https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python" width="150" height="150"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png" alt="Linux" width="150" height="150"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png" alt="Tableau" width="150" height="150"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png" alt="Linux" width="150" height="150"/>
+  </a>
+
+  <a href="https://ibm-cloud-essentials.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="IBM" width="150" height="150"/>
+  </a>
+
+  <a href="https://enterprise-design-thinking-practition.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Practitioner" width="150" height="150"/>
+  </a>
+
+  <a href="https://enterprise-design-thinking-co-creator.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="Co-Creator" width="150" height="150"/>
+  </a>
+
+  <a href="https://enterprise-design-thinking-team-ai.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="Team Essentials" width="150" height="150"/>
+  </a>
+
+<a href="https://enterprise-design-sustainability.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/95aa870e-8233-42da-807f-f8a94209119a/image.png" alt="Sustainability" width="150" height="150"/>
+  </a>
+
+<a href="https://enterprise-design-thinking-leader.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png" alt="Leader" width="150" height="150"/>
+  </a>
 
 </details>
 
