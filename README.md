@@ -268,7 +268,7 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
 <!--START_SECTION:badges-->
 
 <a href="https://www.credly.com/badges/ef1ce4c2-68fa-4090-99ed-bea0e94b225d" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python" width="150" height="150"/>
+    <img src="https://images.credly.com/size/680x680/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt="Python" width="150" height="150"/>
   </a>
 
   <a href="https://www.credly.com/badges/ce0b80f5-988a-4e67-8adb-dcd73ffdb319" target="_blank" rel="noreferrer">
@@ -283,8 +283,8 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
     <img src="https://images.credly.com/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png" alt="Linux" width="150" height="150"/>
   </a>
 
-  <a href="https://ibm-cloud-essentials.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="IBM" width="150" height="150"/>
+  <a href="https://www.credly.com/badges/97450458-c978-4ae5-a8ee-de263b75ff73" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/906144d4-60a6-467f-8b0f-006d4548844f/blob" alt="IBM" width="150" height="150"/>
   </a>
 
   <a href="https://enterprise-design-thinking-practition.netlify.app/" target="_blank" rel="noreferrer">
