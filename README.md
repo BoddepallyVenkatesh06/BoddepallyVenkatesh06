@@ -396,6 +396,18 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
   </details>
   
 <!--END_SECTION:badges-->
+
+<!--START_SECTION:badges-->
+
+<details>
+  
+<summary><h2> My Google Badges <img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Badge_2.gif" width="30"> </h2></summary>
+
+<img src = "https://cdn-images.imagevenue.com/78/d2/e2/ME198D9C_o.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://cdn-images.imagevenue.com/77/ca/b3/ME198D9D_o.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://cdn-images.imagevenue.com/37/ed/7c/ME198D9E_o.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://cdn-images.imagevenue.com/3f/03/25/ME198D9F_o.png" width="150" height="150">&nbsp;&nbsp;<img src = "https://cdn-images.imagevenue.com/6c/f6/65/ME198D9G_o.png" width="150" height="150">
+
+</details>
+
+<!--END_SECTION:badges-->
 <!---
 BoddepallyVenkatesh06/BoddepallyVenkatesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
