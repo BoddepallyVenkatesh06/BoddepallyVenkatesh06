@@ -180,10 +180,10 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <a href="https://www.buymeacoffee.com/venkykumar0006"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/venkykumar0006"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"></a>
 <br>
 
-![trophy](https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43)
+![trophy](https://github-trophies.vercel.app/?username=ryo-ma)
 
 
- <a href="https://github.com/BoddepallyVenkatesh06"><img src="https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/overview.svg" width="280" height="99%"></a><img src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" width="280" height="150%">&nbsp;<a href="https://leetcode-white-venky-kumar.netlify.app/"><img src="https://ik.imagekit.io/rolex/LeetCode_Profile?updatedAt=1718479207970" width="260" height="155"></a>
+ <a href="https://github.com/BoddepallyVenkatesh06"><img src="https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/overview.svg" width="280" height="99%"></a><a href="https://leetcode-white-venky-kumar.netlify.app/"><img src="https://ik.imagekit.io/rolex/LeetCode_Profile?updatedAt=1718479207970" width="260" height="155"></a>
 
 </details>
 
@@ -232,7 +232,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <!--START_SECTION:waka-->
 
 ```txt
-From: August 2021 - To: August 2024
+From: August 2021 - To: December 2024
 
 HTML5/CSS        8 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
