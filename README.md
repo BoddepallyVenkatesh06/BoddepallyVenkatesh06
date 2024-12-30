@@ -18,6 +18,8 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 - **Smart India Hackathon (2023)**: `Project` - OperatorAI **(WINNER)** 🥇
 - **Flipkart GRiD 5.0 (2023)**: `Project` - Fashionkart **(WINNER)** 🥇
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BoddepallyVenkatesh06&theme=nautilus&data=followers,repositories,stars,commits)](https://venky-kumar-portfoliosite.netlify.app/)
+
 <details>
 <summary><h2 align="left">Languages & Tools</h2><img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/L%26T.gif" width="40"> </h2></summary>                                                                                                                                                                                     
 <div align="center">
