@@ -234,11 +234,11 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <!--START_SECTION:waka-->
 
 ```txt
-From: August 2021 - To: December 2024
+From: August 2021 - To: January 2025
 
-HTML5/CSS        8 hrs 30 mins   ██████████████████████░░░   90.18 %
+HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
-React,js         3 hrs 10 mins   ███████████████████████░░   96.18 %
+React,js         4 hrs 10 mins   ███████████████████████░░   96.18 %
 Node.js          3 hrs 24 mins   █████████████▓░░░░░░░░░░░   60.20 %
 Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░   30.80 %
 ```
@@ -311,6 +311,69 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
   </a>
 
 </details>
+
+<!--END_SECTION:badges-->
+
+<details>
+
+<summary><h2> My UNCCL Badges <img src = "https://raw.githubusercontent.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/main/Badge_5.gif" width="30"> </h2></summary>
+
+<!--START_SECTION:badges-->
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=f3bfc66bd9f7781616aa9d992d72519977a96f47" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/1.png?updatedAt=1736445298833"  width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=3dface462b3ec2b233b320d0dcc3582dd73f9e6c" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/2.png?updatedAt=1736445298069" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=b134e139c62d261cd4aaa5fee27fd6f23ddc6d38" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/3.png?updatedAt=1736445298215" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=f1f112c6c4085f1e455ed02a3df6569be2cbf949" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/4.png?updatedAt=1736445298220" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=6f741593b95ca88834f1e2e657129053971cedd1" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/5.png?updatedAt=1736445298812" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=f19ea5bdd25ad87925d3b694e3af8ceb1c197b58" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/6.png?updatedAt=1736445298322" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=a612bd542d77d67bbeefe589db8d61777d180a1d" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/7.png?updatedAt=1736445298222" width="150" height="150"/>
+</a>
+
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=020d541e27a9c350edfb7b7fea6d8c82f24f2e70" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/8.png?updatedAt=1736445298317" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=7f8212c9ce01ea4a13c15cf097f829baa202cd84" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/9.png?updatedAt=1736445298838" width="150" height="150"/>
+</a>
+
+
+<a href="https://unccelearn.org/badges/badge.php?hash=7a0666ceb3e4fcc02a1b46620ebccd2a67003a19" target="_blank" rel="noreferrer">
+<img src="https://ik.imagekit.io/rolex/10.png?updatedAt=1736445298328" width="150" height="150"/>
+</a>
+
+
+</details>
+
 
 <!--END_SECTION:badges-->
 
