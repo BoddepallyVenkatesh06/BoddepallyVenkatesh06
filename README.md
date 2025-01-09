@@ -277,36 +277,37 @@ Other            50 mins         ▒▒▒▒▒▒░░░░░░░░░�
     <img src="https://images.credly.com/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png" alt="Linux" width="150" height="150"/>
   </a>
 
-  <a href="https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png" alt="Tableau" width="150" height="150"/>
-  </a>
-
   <a href="https://www.credly.com/badges/2d5c83ae-e364-4857-b35c-da5d3730a863" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png" alt="Linux" width="150" height="150"/>
+  </a>
+
+  
+  <a href="https://www.credly.com/badges/b7d18343-89b5-4164-9842-c8c126a23ee9" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/82e99942-72c6-4f27-9f50-efc58e409a65/interact-dashboards-2048.png" alt="Tableau" width="150" height="150"/>
   </a>
 
   <a href="https://www.credly.com/badges/97450458-c978-4ae5-a8ee-de263b75ff73" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/906144d4-60a6-467f-8b0f-006d4548844f/blob" alt="IBM" width="150" height="150"/>
   </a>
 
-  <a href="https://enterprise-design-thinking-practition.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Practitioner" width="150" height="150"/>
+  <a href="https://www.credly.com/badges/55e5941c-8635-4fac-aca1-ee3a760d6313" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/9b88ea8b-bd05-4196-b338-10521ec8305d/blob" alt="Practitioner" width="150" height="150"/>
   </a>
 
-  <a href="https://enterprise-design-thinking-co-creator.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="Co-Creator" width="150" height="150"/>
+  <a href="https://www.credly.com/badges/bae7ce48-9f21-478c-8b37-096a75d9d3e8" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/bd4f7858-39da-4504-b0a0-e9da488c260f/blob" alt="Co-Creator" width="150" height="150"/>
   </a>
 
-  <a href="https://enterprise-design-thinking-team-ai.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="Team Essentials" width="150" height="150"/>
+  <a href="https://www.credly.com/badges/97450458-c978-4ae5-a8ee-de263b75ff73" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/906144d4-60a6-467f-8b0f-006d4548844f/blob" alt="Team Essentials" width="150" height="150"/>
   </a>
 
-<a href="https://enterprise-design-sustainability.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/95aa870e-8233-42da-807f-f8a94209119a/image.png" alt="Sustainability" width="150" height="150"/>
+<a href="https://www.credly.com/badges/5fd215ce-1ae9-4d01-86ce-00c912d88945" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/6f5b47e6-a4d9-45fa-84c0-79adfdd8dafd/blob" alt="Sustainability" width="150" height="150"/>
   </a>
 
-<a href="https://enterprise-design-thinking-leader.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/216b29b3-6224-467e-9016-ba054fd833a5/Badges_v8-11_Leader.png" alt="Leader" width="150" height="150"/>
+<a href="https://www.credly.com/badges/d37516dc-5c0c-49ab-afb8-7fd2df8474ed" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" alt="Leader" width="150" height="150"/>
   </a>
 
 </details>
