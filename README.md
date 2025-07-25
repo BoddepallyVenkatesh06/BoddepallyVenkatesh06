@@ -97,7 +97,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="macOS" title="macOS"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-<code><img width="50" src="https://static-00.iconduck.com/assets.00/distributor-logo-elementary-icon-255x256-37e781ib.png" alt="elementary OS" title="elementary OS"/></code>
+<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5qaYX3JeUkzAQs8a1Khk7GCufFlAa0Ohmw&s" alt="elementary OS" title="elementary OS"/></code>
 </div>
 
 </details>
@@ -234,7 +234,7 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 <!--START_SECTION:waka-->
 
 ```txt
-From: August 2021 - To: January 2025
+From: August 2021 - To: July 2025
 
 HTML5/CSS        7 hrs 30 mins   ██████████████████████░░░   90.18 %
 JavScript        6 hrs 32 mins   ██████████████████░░░░░░░   79.81 %
