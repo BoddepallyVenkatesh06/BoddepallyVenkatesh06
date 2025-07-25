@@ -14,9 +14,9 @@ I'm a creative and responsible professional with excellent troubleshooting skill
 
 ## 🏆 Hackathon Achievements
 
-- **ETHGlobal Online (2024)**: `Project` - Money 3.0 TwittBar **(WINNER)** 🥇
-- **Smart India Hackathon (2023)**: `Project` - OperatorAI **(WINNER)** 🥇
-- **Flipkart GRiD 5.0 (2023)**: `Project` - Fashionkart **(WINNER)** 🥇
+- [**ETHGlobal Online (2024)**](https://ethglobal.com/) : `Project` - [Money 3.0 TwittBar](https://github.com/BoddepallyVenkatesh06/Money-3.0-TwittBar) **(WINNER)** 🥇
+- [**Smart India Hackathon (2024)**](https://www.sih.gov.in/) : `Project` - [Study_Material_AI](https://github.com/BoddepallyVenkatesh06/Study_Material_AI) **(WINNER)** 🥇
+- [**Flipkart GRiD 5.0 (2024)**](https://www.flipkartcareers.com/#!/grid) : `Project` - [RaiseCoin-DApp](https://github.com/BoddepallyVenkatesh06/RaiseCoin-DApp) **(WINNER)** 🥇 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BoddepallyVenkatesh06&theme=nautilus&data=followers,repositories,stars,commits)](https://venky-kumar-portfoliosite.netlify.app/)
 
